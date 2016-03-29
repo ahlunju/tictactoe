@@ -1,0 +1,10 @@
+<select class="form-control btn-group form-group" style="width:auto;" ng-model="subPanel.selected" ng-options=" panel.name for panel in subPanel.options" ng-change="viewSubPanel()">
+</select>&nbsp;
+<div class="btn-group form-group" role="group">
+  <button type="button" class="btn btn-default" ng-click="transitionToSubView('multi-day', subPanel.selected.id)" ng-class="{active: activeTab === '/multi-day'}">Multiple Days View</button>
+  <button type="button" class="btn btn-default" ng-click="transitionToSubView('day', subPanel.selected.id)" ng-class="{active: activeTab === '/day'}">Day View</button>
+  <!-- <button type="button" class="btn btn-default" ng-click="transitionToSubView('.chart', subPanel.selected.id)" ng-class="{active: activeTab === '.chart'}">Chart View</button> -->
+</div>
+<div data-ui-view>
+
+</div>

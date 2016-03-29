@@ -1,0 +1,37 @@
+<div ng-include=" 'common/templates/dayHeaderWithoutBreach.html' " class="clearfix"></div>
+<div class="grid" ui-grid="gridOptions"
+	style="height: 69vh"
+	ui-grid-selection
+	ui-grid-move-columns
+	ui-grid-resize-columns
+	ui-grid-pinning
+	ui-grid-save-state
+	ui-grid-expandable>
+	<div class="grid-overlay-msg" ng-show="isSearching">
+		<span us-spinner spinner-key="report-day-spinner" spinner-start-active="false"></span>
+	</div>
+	<div class="grid-overlay-msg" ng-show="noReportData">
+		<div class="msg">
+			<span>No Data</span>
+		</div>
+	</div>
+	<div class="grid-overlay-msg" ng-show="error">
+		<div class="msg">
+			<span>{{error}}</span>
+		</div>
+	</div>
+</div>
+<div class="row-top-buffer">
+	<button class="btn btn-primary btn-spacing" ng-click="reviewReport()" ng-disabled="disableReview()" ng-show="accessB.write">Review</button>
+	<div dropdown class="btn-group">
+		<button type="button" class="btn btn-primary" ng-click="exportToExcel()" ng-disabled="!gridOptions.data || gridOptions.data.length=== 0">Export</button>
+		<button type="button" class="btn btn-primary dropdown-toggle" dropdown-toggle ng-disabled="!gridOptions.data || gridOptions.data.length=== 0">
+		<span class="caret"></span>
+		<span class="sr-only"></span>
+		</button>
+		<ul class="dropdown-menu" role="menu" style="top: -125%;">
+		<li><a ng-click="transitionToCognos()">Cognos Export</a></li>
+
+		</ul>
+	</div>
+</div>
