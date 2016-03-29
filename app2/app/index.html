@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html ng-app="app" id="ng-app">
+  <head>
+    <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="fragment" content="!">
+    <meta content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0' name='viewport'>
+    <title>Overrides</title>
+      <!--build:css css/lib.min.css -->
+      <link rel="stylesheet" type="text/css" href="public/bower/bootstrap/dist/css/bootstrap.css"/>
+      <link rel="stylesheet" type="text/css" href="public/bower/font-awesome/css/font-awesome.min.css"/>
+      <link rel="stylesheet" type="text/css" href="public/bower/angular-ui-grid/ui-grid.css"/>
+    <link rel="stylesheet" type="text/css" href="public/bower/ui-select/dist/select.css"/>
+    <link rel="stylesheet" type="text/css" href="public/bower/angular-toastr/dist/angular-toastr.css" />
+    <!-- endbuild -->
+    <!--build:css css/app.min.css -->
+    <link rel="stylesheet" type="text/css" href="public/assets/css/styles.css"/>
+    <link rel="stylesheet" type="text/css" href="public/assets/css/volcker.css"/>
+    <!-- endbuild -->
+  </head>
+  <body>
+  <div ng-include="'common/templates/header.html'" class="clearfix"></div>
+    <section id='page'>
+      <div>
+        <div data-ui-view autoscroll="false" class="container-fluid"></div>
+        <div data-ng-include="'common/templates/footer.html'"></div>
+      </div>
+    </section>
+    <!--build:js js/angular-plugins.min.js -->
+    <script src="public/bower/angular/angular.min.js"></script>
+    <script src="public/bower/angular-resource/angular-resource.min.js"></script>
+    <script src="public/bower/angular-ui-router/release/angular-ui-router.min.js"></script>
+    <script src="public/bower/angular-messages/angular-messages.min.js"></script>
+    <script src="public/bower/angular-sanitize/angular-sanitize.min.js"></script>
+    <script src="public/bower/ui-select/dist/select.min.js"></script>
+    <script src="public/bower/angular-toastr/dist/angular-toastr.tpls.min.js"></script>
+    <script src="public/bower/spin.js/spin.js"></script>
+    <script src="public/bower/angular-spinner/angular-spinner.min.js"></script>
+    <script src="public/bower/underscore/underscore-min.js"></script>
+    <!-- endbuild -->
+    <!--build:js js/ui-bootstrap-tpls.min.js -->
+    <script src="public/bower/angular-bootstrap/ui-bootstrap-tpls.min.js"></script>
+    <!-- endbuild -->
+    <!--build:js js/ui-grid.min.js -->
+    <script src="public/bower/angular-ui-grid/ui-grid.min.js"></script>
+    <!-- endbuild -->
+    <!--build:js js/app.min.js -->
+    <script src="app.js"></script>
+    <script src="common/directives/extended-datepicker.js"></script>
+    <script src="common/directives/file-input.js"></script>
+    <script src="common/directives/multi-select-modal.js"></script>
+    <script src="common/filters/paginate.js"></script>
+    <script src="common/filters/percentage.js"></script>
+    <script src="common/filters/null-currency.js"></script>
+    <script src="common/filters/optional-currency.js"></script>
+    <script src="common/filters/date-desk-sort.js"></script>
+    <!-- inject:remote-services-mod:js -->
+    <script src="common/services/remote-services.js"></script>
+    <!-- endinject -->
+    <script src="common/services/holiday-service.js"></script>
+    <script src="common/filters/title-case.js"></script>
+    <script src="common/services/cache-service.js"></script>
+    <script src="common/services/helper-services.js"></script>
+    <script src="common/services/template-service.js"></script>
+    <script src="common/services/resource-service.js"></script>
+    <script src="common/services/error-service.js"></script>
+    <script src="common/controllers/document-modal-ctrl.js"></script>
+    <script src="common/controllers/comment-modal-ctrl.js"></script>
+    <script src="common/controllers/override-modal-ctrl.js"></script>
+    <script src="common/controllers/template-ctrl.js"></script>
+    <script src="common/controllers/panel-ctrl.js"></script>
+    <script src="common/controllers/multi-day-ctrl.js"></script>
+    <script src="common/controllers/day-ctrl.js"></script>
+    <script src="common/controllers/detail-ctrl.js"></script>
+    <script src="common/services/base-factory.js"></script>
+    <!-- MODULES -->
+    <script src="table-of-content/table-of-content.js"></script>
+    <script src="review-status/review-status.js"></script>
+    <!-- Panel 1 -->
+    <script src="risk-position-limits-usage/config.js"></script>
+    <script src="risk-position-limits-usage/main-ctrl.js"></script>
+    <script src="risk-position-limits-usage/multiday-ctrl.js"></script>
+    <script src="risk-position-limits-usage/day-ctrl.js"></script>
+    <script src="risk-position-limits-usage/detail-ctrl.js"></script>
+    <script src="risk-position-limits-usage/position-detail-ctrl.js"></script>
+    <script src="risk-position-limits-usage/breach-products-ctrl.js"></script>
+    <script src="risk-position-limits-usage/services.js"></script>
+    
+    <!-- Panel 2 -->
+    <script src="risk-factor-sensitivities/config.js"></script>
+    <script src="risk-factor-sensitivities/main-ctrl.js"></script>
+    <script src="risk-factor-sensitivities/multiday-ctrl.js"></script>
+    <script src="risk-factor-sensitivities/day-ctrl.js"></script>
+    <script src="risk-factor-sensitivities/detail-ctrl.js"></script>
+    <script src="risk-factor-sensitivities/services.js"></script>
+
+    <!-- Panel 3 VaR and sVaR -->
+    <script src="VaR-and-sVaR/config.js"></script>
+    <script src="VaR-and-sVaR/main-ctrl.js"></script>
+    <script src="VaR-and-sVaR/multiday-ctrl.js"></script>
+    <script src="VaR-and-sVaR/day-ctrl.js"></script>
+    <script src="VaR-and-sVaR/detail-ctrl.js"></script>
+    <script src="VaR-and-sVaR/services.js"></script>
+
+    <!-- Panel 4 Comprehensive Profit and Loss Attribution -->
+    <script src="comprehensive-PnL/config.js"></script>
+    <script src="comprehensive-PnL/main-ctrl.js"></script>
+    <!-- Sub Panel A -->
+    <script src="comprehensive-PnL/multiday-a-ctrl.js"></script>
+    <script src="comprehensive-PnL/day-a-ctrl.js"></script>
+    <script src="comprehensive-PnL/detail-a-ctrl.js"></script>
+    <script src="comprehensive-PnL/position-a-ctrl.js"></script>
+    <script src="comprehensive-PnL/services-a.js"></script>
+    <!-- Sub Panel B -->
+    <script src="comprehensive-PnL/multiday-b-ctrl.js"></script>
+    <script src="comprehensive-PnL/day-b-ctrl.js"></script>
+    <script src="comprehensive-PnL/detail-b-ctrl.js"></script>
+    <script src="comprehensive-PnL/services-b.js"></script>
+
+    <!-- Panel 5 Inventory TUrnover -->
+    <script src="inventory-turnover/config.js"></script>
+    <script src="inventory-turnover/main-ctrl.js"></script>
+    <script src="inventory-turnover/multiday-ctrl.js"></script>
+    <script src="inventory-turnover/day-ctrl.js"></script>
+    <script src="inventory-turnover/detail-ctrl.js"></script>
+    <script src="inventory-turnover/services.js"></script>
+
+    <!-- Panel 6 Inventory Aging -->
+    <script src="inventory-aging/config.js"></script>
+    <script src="inventory-aging/main-ctrl.js"></script>
+    <script src="inventory-aging/multiday-ctrl.js"></script>
+    <script src="inventory-aging/day-ctrl.js"></script>
+    <script src="inventory-aging/detail-ctrl.js"></script>
+    <script src="inventory-aging/position-age-ctrl.js"></script>
+    <script src="inventory-aging/services.js"></script>
+
+    <!-- Panel 7 Customer-Facing Trade Ratio -->
+    <script src="customer-facing-trade-ratio/config.js"></script>
+    <script src="customer-facing-trade-ratio/main-ctrl.js"></script>
+    <script src="customer-facing-trade-ratio/multiday-ctrl.js"></script>
+    <script src="customer-facing-trade-ratio/day-ctrl.js"></script>
+    <script src="customer-facing-trade-ratio/detail-ctrl.js"></script>
+    <script src="customer-facing-trade-ratio/services.js"></script>
+    <!-- endbuild -->
+    <!-- inject:templates:js -->
+    <!-- endinject -->
+    </body>
+</html>
