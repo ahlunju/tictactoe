@@ -1,0 +1,75 @@
+<h3>Risk Factor Sensitivity Cognos Charts</h3>
+<div class="row">
+	<div class="col-md-2">
+		<label for="">Start Date</label>
+		<p class="input-group">
+			<input type="text" class="form-control"
+				min-date="startDate"
+				datepicker-popup="format"
+				required
+				ng-model="datePicked.dBusinessDate"
+				is-open="opened"
+				datepicker-options="dateOptions"
+				datepicker-append-to-body="true"
+				date-disabled="disabledDate(date, mode)"
+				close-text="Close" ng-readonly="true"/>
+			<span class="input-group-btn">
+				<button type="button" class="btn btn-default" ng-click="openCalendar($event)"><i
+					class="glyphicon glyphicon-calendar"></i></button>
+			</span>
+		</p>
+	</div>
+	<div class="col-md-2">
+		<label for="">End Date</label>
+		<p class="input-group">
+			<input type="text" class="form-control"
+				min-date="startDate"
+				datepicker-popup="format"
+				required ng-model="datePicked.dBusinessDate"
+				is-open="opened"
+				datepicker-options="dateOptions"
+				datepicker-append-to-body="true"
+				date-disabled="disabledDate(date, mode)"
+				close-text="Close" ng-readonly="true"/>
+			<span class="input-group-btn">
+				<button type="button" class="btn btn-default" ng-click="openCalendar($event)"><i
+					class="glyphicon glyphicon-calendar"></i></button>
+			</span>
+		</p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-2">
+		<label for="">Volcker Desk</label>
+		<div>
+			<div class="form-group">
+					<ui-select ng-model="desk.selected" theme="bootstrap" ng-disabled="disabled">
+						<ui-select-match placeholder="Select a desk...">{{$select.selected.sVolckerDeskName}}</ui-select-match>
+						<ui-select-choices repeat="desk in desks | orderBy: ['sVolckerDeskName'] | filter: {sVolckerDeskName: $select.search}">
+							<div ng-bind-html="desk.sVolckerDeskName | highlight: $select.search"></div>
+						</ui-select-choices>
+					</ui-select>
+				</div>
+		</div>
+		
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-4">
+		<label for="">Name of Risk Factor Sensitivity</label>
+		<div>
+			<div class="btn-group form-group" dropdown>
+				<button type="button" class="btn btn-default">{{selectedRisk.type}}</button>
+				<button type="button" class="btn btn-default dropdown-toggle">
+					<span class="caret"></span>
+					<span class="sr-only">split</span>
+				</button>
+				<ul class="dropdown-menu" role="menu">
+					<li ng-repeat="risk in riskFactors"><a href="" ng-click="$parent.setSelectedRisk(risk)">{{risk}}</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	
+</div>
+<button class="btn btn-primary">Create Chart</button>

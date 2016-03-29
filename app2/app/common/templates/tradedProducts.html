@@ -1,0 +1,37 @@
+<div class="traded-product grid-overlay-msg" ng-show="noTradedProduct">
+			<div class="msg">
+				<span>No Traded Product</span>
+			</div>
+		</div>
+		<span us-spinner spinner-key="tradedProduct-spinner" spinner-start-active="false"></span>
+		<div class="traded-product-panel panel panel-default">
+			<div class="panel-body">
+				<div class="row">
+					
+					<div class="col-md-4">
+						<p><b>Primary Products</b></p>
+						<ul style="padding-left:20px;" ng-hide="isSearching">
+							<li ng-repeat="product in tradedProducts.data.PrimaryDTO">{{product.sProductType}}</li>
+						</ul>
+					</div>
+					<div class="col-md-4">
+						<p><b>Hedging Products</b></p>
+						<ul style="padding-left:20px;" ng-hide="isSearching">
+							<li ng-repeat="product in tradedProducts.data.HedgeDTO ">
+								<span>{{product.sProductType}}</span>
+							</li>
+						</ul>
+					</div>
+					<div class="col-md-4">
+						<p><b>Unauthorized Products</b></p>
+						<ul style="padding-left:20px;" ng-hide="isSearching">
+							<li ng-repeat="product in tradedProducts.data.UnauthorizedDTO">
+								<a class='breached' ng-click="showUnauthorizedProductValues(product.sProductType)">
+									{{product.sProductType}}
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>

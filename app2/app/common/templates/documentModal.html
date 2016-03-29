@@ -1,0 +1,22 @@
+<div class="modal-header">
+	<h4 class="modal-title">Documents</h4>
+	<div class="alert alert-danger" role="alert" ng-show="error">{{error}}</div>
+</div>
+<div class="modal-body">
+	<div>
+		<p class="text-center" ng-show="noData">No Document</p>
+		<table class="table table-bordered table-overflown">
+			<tr ng-repeat="doc in documents">
+				<td style="width:45%" class="text-left"><a target="_blank" href="{{doc.p_sUrl}}">{{doc.p_sFileName}}</a></td>
+				<td style="width:30%" class="text-left">{{doc.p_sUser}}</td>
+				<td style="width:20%" class="text-left">{{doc.p_dtTimestamp}}</td>
+				<td style="width:5%" ng-show="!readOnly"><button class="btn btn-xs pull-right btn-danger glyphicon glyphicon-remove" ng-click="deleteDocument(doc.p_sFileName)"></button></td>
+			</tr>
+		</table>
+	</div>
+</div>
+<div class="modal-footer">
+	<div file-input="importFile" on-change="" ng-show="!readOnly"></div>
+	<button type="button" class="btn btn-primary" ng-show="!readOnly" ng-click="uploadFile()" ng-disabled="!importFile">Upload</button>
+	<button class="btn btn-default" ng-click="cancel()">Close</button>
+</div>

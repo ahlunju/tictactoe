@@ -1,0 +1,18 @@
+<div class="modal-header">
+	<h4 class="modal-title">Modify/Create Template</h4>
+</div>
+<div class="modal-body">
+	<form name="saveTemplateForm">
+		<input type="text" name="templateName" class="form-control" autofocus ng-model="templateName" ng-required="true" ng-pattern="/^[^'&quot;]*$/" ng-blur="isDuplicateName()"/>
+		<div class="is-error" ng-show="saveTemplateForm.templateName.$dirty && saveTemplateForm.templateName.$invalid">
+		    <span ng-show="saveTemplateForm.templateName.$error.pattern">Template name can not contain any quotation mark.</span>
+		</div>
+		<div class="is-error" ng-show="isDuplicated">
+            <span>template name is already taken.</span>
+        </div>
+	</form>
+</div>
+<div class="modal-footer">
+	<button class="btn btn-success" ng-click="save()" ng-disabled="saveTemplateForm.templateName.$invalid">Save</button>
+	<button class="btn btn-default" ng-click="cancel()">Cancel</button>
+</div>

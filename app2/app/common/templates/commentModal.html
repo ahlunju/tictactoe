@@ -1,0 +1,29 @@
+<div class="modal-header">
+	<h4 class="modal-title">Comment</h4>
+	<div class="alert alert-danger" role="alert" ng-show="error">{{error}}</div>
+</div>
+<div class="modal-body" ng-show="!readOnly">
+	<textarea class="form-control" rows="3" style="resize: none;" ng-model="comment" maxlength="250" ></textarea>
+</div>
+<div class="modal-footer">
+	<div class="row">
+		<div class="col-md-9">
+			<table class="table table-bordered table-overflown">
+				<tr>
+					<th style="width:60%" class="text-center">Comment</th>
+					<th style="width:10%" class="text-center">User</th>
+					<th style="width:30%" class="text-center">Time</th>
+				</tr>
+				<tr ng-repeat="comment in previousComments">
+					<td class="text-left">{{comment.sComment}}</td>
+					<td class="text-left">{{comment.sUser}}</td>
+					<td class="text-left">{{comment.sTimeStamp}}</td>
+				</tr>
+			</table>
+		</div>
+		<div class="col-md-3">
+			<button class="btn btn-default" ng-show="!readOnly" ng-click="update()" ng-disabled="!comment">Save</button>
+			<button class="btn btn-default" ng-click="cancel()">Close</button>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,13 @@
+<div class="modal-header">
+	<h4 class="modal-title">Load Template</h4>
+</div>
+<div class="modal-body">
+	<div class="list-group">
+	  <a class="list-group-item" ng-repeat="template in ::templates" ng-class="{ 'active' : template.name === selectedTemplate.name }" ng-click="selectTemplate(template)">{{::template.name}}</a>
+	</div>
+</div>
+<div class="modal-footer">
+	<button class="btn btn-success" ng-click="apply()">Apply</button>
+	<button class="btn btn-danger" ng-click="">Delete</button>
+	<button class="btn btn-default" ng-click="cancel()">Cancel</button>
+</div>

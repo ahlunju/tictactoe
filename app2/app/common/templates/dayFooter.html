@@ -1,0 +1,14 @@
+<div class="row-top-buffer">
+	<button class="btn btn-primary btn-spacing" ng-click="reviewReport()" ng-disabled="disableReview()" ng-show="access.write">Review</button>
+	<div dropdown class="btn-group">
+		<button type="button" class="btn btn-primary" ng-click="exportToExcel()" ng-disabled="!gridOptions.data || gridOptions.data.length=== 0">Export</button>
+		<button type="button" class="btn btn-primary dropdown-toggle" dropdown-toggle ng-disabled="!gridOptions.data || gridOptions.data.length=== 0">
+		<span class="caret"></span>
+		<span class="sr-only"></span>
+		</button>
+		<ul class="dropdown-menu" role="menu" style="top: -125%;">
+		<li><a ng-click="transitionToCognos()">Cognos Export</a></li>
+
+		</ul>
+	</div>
+</div>

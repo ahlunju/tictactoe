@@ -1,0 +1,21 @@
+<div class="modal-header">
+	<h4 class="modal-title">
+		Override <b>{{entity.type}}</b>
+		<span ng-if="entity.riskFactorSensitivity"> of <b >{{entity.riskFactorSensitivity}}</b></span>
+	</h4>
+	<div class="alert alert-danger" role="alert" ng-show="error">{{error}}</div>
+</div>
+<div class="modal-body">
+	<p>
+		from:
+		<b>{{entity.oldVal}}</b>
+		<br>to:&nbsp;&nbsp;&nbsp;&nbsp;
+		<b>{{entity.newVal}}</b>
+	</p>
+	<p>Comment:</p>
+	<textarea class="form-control" rows="2" style="resize: none;" ng-model="overrideParams.p_sComment" maxlength="250"></textarea>
+</div>
+<div class="modal-footer">
+	<button class="btn btn-success" ng-click="submit()" ng-disabled="overrideParams.p_sComment === '' ">Submit</button>
+	<button class="btn btn-default" ng-click="cancel()">Cancel</button>
+</div>

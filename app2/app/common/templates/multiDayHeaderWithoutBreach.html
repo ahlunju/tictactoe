@@ -1,0 +1,74 @@
+<div class="row">
+	<div class="col-md-12">
+		<div class="row">
+			<div class="col-md-2">
+				<label for="">Start Date</label>
+				<p class="input-group">
+					<input type="text" class="form-control"
+							max-date="dateOptions.endDate"
+							datepicker-popup="{{dateFormat}}"
+							ng-model="dateOptions.startDate"
+							is-open="dateOptions.startOpened"
+							datepicker-append-to-body="true"
+							date-disabled="disabledDate(date, mode)"
+							close-text="Close"
+							datepicker-options="dateOptions"
+							ng-readonly="true"
+							ng-change="formatStartDate()"/>
+					<span class="input-group-btn">
+						<button type="button" class="btn btn-default" ng-click="openStartCalendar($event)" ng-disabled="isSearching"><i
+							class="glyphicon glyphicon-calendar"></i></button>
+					</span>
+				</p>
+			</div>
+			<div class="col-md-2">
+				<label for="">End Date</label>
+				<p class="input-group">
+					<input type="text" class="form-control"
+						min-date="dateOptions.startDate"
+						max-date="today"
+						datepicker-popup="{{dateFormat}}"
+						ng-model="dateOptions.endDate"
+						is-open="dateOptions.endOpened"
+						datepicker-append-to-body="true"
+						date-disabled="disabledDate(date, mode)"
+						datepicker-options="dateOptions"
+						close-text="Close" ng-readonly="true"
+						ng-change="formatEndDate()"/>
+					<span class="input-group-btn">
+						<button type="button" class="btn btn-default" ng-click="openEndCalendar($event)" ng-disabled="isSearching"><i
+							class="glyphicon glyphicon-calendar"></i></button>
+					</span>
+				</p>
+			</div>
+			<div class="col-md-3">
+				<div><label>Volcker Desk</label></div>
+				<div class="form-group">
+					<ui-select ng-model="desk.selected" theme="bootstrap" ng-disabled="isSearching">
+						<ui-select-match placeholder="Select a desk...">{{$select.selected.sVolckerDeskName}}</ui-select-match>
+						<ui-select-choices repeat="desk in desks | orderBy: ['sVolckerDeskName'] | filter: {sVolckerDeskName: $select.search}">
+							<div ng-bind-html="desk.sVolckerDeskName | highlight: $select.search"></div>
+						</ui-select-choices>
+					</ui-select>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div><label for="">&nbsp;</label></div>
+					<div class="btn-group form-group v-align-top">
+						<button class="btn btn-primary" ng-click="search()">Search</button>
+					</div>
+					<!--<div class="btn-group form-group v-align-top">
+						<div class="checkbox"><label><input type="checkbox" ng-model="breachOnly.val"/>Breach Only</label></div>
+					</div>-->
+			</div>
+			<div class="col-md-3">
+				<!-- <p class="clearfix" style="margin: 0;">
+					<label class="pull-right">View:&nbsp; <a ng-click="loadState()" class="text-primary pull-right">{{selectedTemplate.name}}</a></label>
+				</p>
+				<div class="pull-right">
+					<button class="btn btn-default btn-xs" ng-click="saveState()">Modify/Create</button>
+				</div> -->
+			</div>
+		</div>
+	</div>
+</div>
