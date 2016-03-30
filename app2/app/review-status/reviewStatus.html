@@ -1,0 +1,125 @@
+<div class="row">
+	<div class="col-md-12">
+		<div class="row">
+			<div class="col-md-2">
+				<label for="">Start Date</label>
+				<p class="input-group">
+					<input type="text" class="form-control"
+							max-date="dateOptions.endDate"
+							datepicker-popup="{{dateFormat}}"
+							ng-model="dateOptions.startDate"
+							is-open="dateOptions.startOpened"
+							datepicker-append-to-body="true"
+							date-disabled="disabledDate(date, mode)"
+							close-text="Close"
+							datepicker-options="dateOptions"
+							ng-readonly="true"
+							ng-change="formatStartDate()"/>
+					<span class="input-group-btn">
+						<button type="button" class="btn btn-default" ng-click="openStartCalendar($event)" ng-disabled="isSearching || isRefreshing"><i
+							class="glyphicon glyphicon-calendar"></i></button>
+					</span>
+				</p>
+			</div>
+			<div class="col-md-2">
+				<label for="">End Date</label>
+				<p class="input-group">
+					<input type="text" class="form-control"
+						min-date="dateOptions.startDate"
+						max-date="today"
+						datepicker-popup="{{dateFormat}}"
+						ng-model="dateOptions.endDate"
+						is-open="dateOptions.endOpened"
+						datepicker-append-to-body="true"
+						date-disabled="disabledDate(date, mode)"
+						datepicker-options="dateOptions"
+						close-text="Close" ng-readonly="true"
+						ng-change="formatEndDate()"/>
+					<span class="input-group-btn">
+						<button type="button" class="btn btn-default" ng-click="openEndCalendar($event)" ng-disabled="isSearching || isRefreshing"><i
+							class="glyphicon glyphicon-calendar"></i></button>
+					</span>
+				</p>
+			</div>
+			<div class="col-md-3">
+				<div><label for="">&nbsp;</label></div>
+				<button class="btn btn-primary btn-spacing" ng-click="getReviewStatus()" ng-disabled="isSearching || isRefreshing">Search</button>
+				<button class="btn btn-primary" ng-click="exportReviewStatus()" ng-disabled="statuses.data.length === 0 || !statuses.data">Export</button>
+				<button class="btn btn-primary" ng-click="review()" ng-show="::showCheckbox()" ng-disabled="readOnly || statuses.data.length === 0 || !statuses.data">Review</button>
+			</div>
+		</div>
+	</div>
+</div>
+<div us-spinner spinner-key="status-spinner" spinner-start-active="false"></div>
+<div class="grid-overlay-msg" ng-show="isRefreshing" style="margin-left:-15px">
+	<div class="msg">
+		<span>Reloading review status...</span>
+	</div>
+</div>
+<table class="table table-bordered table-overflown table-hover">
+	<thead>
+	<tr>
+		<th ng-show="::showCheckbox()"><input type="checkbox" ng-change="toggleAll()" ng-model="selectedAll"></th>
+		<th style="width:90px">
+			<a ng-click="changeSort('dtReview')">
+				Date
+				<span ng-show="sortConfig.type == 'dtReview' && sortConfig.reverse == false" class="fa fa-caret-down"></span>
+				<span ng-show="sortConfig.type == 'dtReview' && sortConfig.reverse == true" class="fa fa-caret-up"></span>
+			</a>
+		</th>
+		<th style="width:280px">
+			<a ng-click="changeSort('sVolckerDesk')">
+				Volcker Desk
+				<span ng-show="sortConfig.type == 'sVolckerDesk' && sortConfig.reverse == false" class="fa fa-caret-down"></span>
+				<span ng-show="sortConfig.type == 'sVolckerDesk' && sortConfig.reverse == true" class="fa fa-caret-up"></span>
+			</a>
+		</th>
+		<th style="">Panel 1 <input type="checkbox" class="pull-right" ng-model="columnSelected.p1" ng-change="toggleColumn(columnSelected.p1, '1')" ng-show="::showCheckbox('1')"></th>
+		<th style="">Panel 2 <input type="checkbox" class="pull-right" ng-model="columnSelected.p2" ng-change="toggleColumn(columnSelected.p2, '2')" ng-show="::showCheckbox('2')"></th>
+		<th style="">Panel 3 <input type="checkbox" class="pull-right" ng-model="columnSelected.p3" ng-change="toggleColumn(columnSelected.p3, '3')" ng-show="::showCheckbox('3')"></th>
+		<th style="">Panel 4.A <input type="checkbox" class="pull-right" ng-model="columnSelected.p4a" ng-change="toggleColumn(columnSelected.p4a, '4a')" ng-show="::showCheckbox('4a')"></th>
+		<th style="">Panel 4.B <input type="checkbox" class="pull-right" ng-model="columnSelected.p4b" ng-change="toggleColumn(columnSelected.p4b, '4b')" ng-show="::showCheckbox('4b')"></th>
+		<th style="">Panel 5 <input type="checkbox" class="pull-right" ng-model="columnSelected.p5" ng-change="toggleColumn(columnSelected.p5, '5')" ng-show="::showCheckbox('5')"></th>
+		<th style="">Panel 6 <input type="checkbox" class="pull-right" ng-model="columnSelected.p6" ng-change="toggleColumn(columnSelected.p6, '6')" ng-show="::showCheckbox('6')"></th>
+		<th style="">Panel 7 <input type="checkbox" class="pull-right" ng-model="columnSelected.p7" ng-change="toggleColumn(columnSelected.p7, '7')" ng-show="::showCheckbox('7')"></th>
+	</tr>
+	</thead>
+	<tr ng-repeat="status in statuses.data | dateDeskSort: sortConfig.type : sortConfig.reverse">
+	<!-- <tr ng-repeat="status in statuses.data"> -->
+		<td ng-show="::showCheckbox()"><input type="checkbox" ng-model="status.rowSelected" ng-change="toggleRow(status)"></td>
+		<td>{{::status.dtReview}}</td>
+		<td>{{::status.sVolckerDesk}}</td>
+		<td ng-class="{ 'no-review' : !status.oReviewerPanel1DTO.ReviewerInitials}" title="{{::status.oReviewerPanel1DTO.Reviewer}}">
+			<span class="clickable-cell" ng-click="routeToDetail(1, status.dtReview, status.sVolckerDesk, status.VolckerDeskID)">{{::status.oReviewerPanel1DTO.ReviewerInitials || "&nbsp;" }}</span>
+			<input ng-show="::showCheckbox('1')" type="checkbox" class="pull-right" ng-if="status.oReviewerPanel1DTO.ReviewID" ng-model="status.oReviewerPanel1DTO.selected">
+		</td>
+		<td ng-class="{ 'no-review' : !status.oReviewerPanel2DTO.ReviewerInitials}" title="{{::status.oReviewerPanel2DTO.Reviewer}}">
+			<span class="clickable-cell" ng-click="routeToDetail(2, status.dtReview, status.sVolckerDesk, status.VolckerDeskID)">{{::status.oReviewerPanel2DTO.ReviewerInitials || "&nbsp;" }}</span>
+			<input ng-show="::showCheckbox('2')" type="checkbox" class="pull-right" ng-if="status.oReviewerPanel2DTO.ReviewID" ng-model="status.oReviewerPanel2DTO.selected">
+		</td>
+		<td ng-class="{ 'no-review' : !status.oReviewerPanel3DTO.ReviewerInitials}" title="{{::status.oReviewerPanel3DTO.Reviewer}}">
+			<span class="clickable-cell" ng-click="routeToDetail(3, status.dtReview, status.sVolckerDesk, status.VolckerDeskID)">{{::status.oReviewerPanel3DTO.ReviewerInitials || "&nbsp;" }}</span>
+			<input ng-show="::showCheckbox('3')" type="checkbox" class="pull-right" ng-if="status.oReviewerPanel3DTO.ReviewID" ng-model="status.oReviewerPanel3DTO.selected">
+		</td>
+		<td ng-class="{ 'no-review' : !status.oReviewerPanel4aDTO.ReviewerInitials}" title="{{::status.oReviewerPanel4aDTO.Reviewer}}">
+			<span class="clickable-cell" ng-click="routeToDetail(4, status.dtReview, status.sVolckerDesk, status.VolckerDeskID)">{{::status.oReviewerPanel4aDTO.ReviewerInitials || "&nbsp;" }}</span>
+			<input ng-show="::showCheckbox('4a')" type="checkbox" class="pull-right" ng-if="status.oReviewerPanel4aDTO.ReviewID" ng-model="status.oReviewerPanel4aDTO.selected">
+		</td>
+		<td ng-class="{ 'no-review' : !status.oReviewerPanel4bDTO.ReviewerInitials}" title="{{::status.oReviewerPanel4bDTO.Reviewer}}">
+			<span class="clickable-cell" ng-click="routeToDetail(8, status.dtReview, status.sVolckerDesk, status.VolckerDeskID)">{{::status.oReviewerPanel4bDTO.ReviewerInitials || "&nbsp;" }}</span>
+			<input ng-show="::showCheckbox('4b')" type="checkbox" class="pull-right" ng-if="status.oReviewerPanel4bDTO.ReviewID" ng-model="status.oReviewerPanel4bDTO.selected">
+		</td>
+		<td ng-class="{ 'no-review' : !status.oReviewerPanel5DTO.ReviewerInitials}" title="{{::status.oReviewerPanel5DTO.Reviewer}}">
+			<span class="clickable-cell" ng-click="routeToDetail(5, status.dtReview, status.sVolckerDesk, status.VolckerDeskID)">{{::status.oReviewerPanel5DTO.ReviewerInitials || "&nbsp;" }}</span>
+			<input ng-show="::showCheckbox('5')" type="checkbox" class="pull-right" ng-if="status.oReviewerPanel5DTO.ReviewID" ng-model="status.oReviewerPanel5DTO.selected">
+		</td>
+		<td ng-class="{ 'no-review' : !status.oReviewerPanel6DTO.ReviewerInitials}" title="{{::status.oReviewerPanel6DTO.Reviewer}}">
+			<span class="clickable-cell" ng-click="routeToDetail(6, status.dtReview, status.sVolckerDesk, status.VolckerDeskID)">{{::status.oReviewerPanel6DTO.ReviewerInitials || "&nbsp;" }}</span>
+			<input ng-show="::showCheckbox('6')" type="checkbox" class="pull-right" ng-if="status.oReviewerPanel6DTO.ReviewID" ng-model="status.oReviewerPanel6DTO.selected">
+		</td>
+		<td ng-class="{ 'no-review' : !status.oReviewerPanel7DTO.ReviewerInitials}" title="{{::status.oReviewerPanel7DTO.Reviewer}}">
+			<span class="clickable-cell" ng-click="routeToDetail(7, status.dtReview, status.sVolckerDesk, status.VolckerDeskID)">{{::status.oReviewerPanel7DTO.ReviewerInitials || "&nbsp;" }}</span>
+			<input ng-show="::showCheckbox('7')" type="checkbox" class="pull-right" ng-if="status.oReviewerPanel7DTO.ReviewID" ng-model="status.oReviewerPanel7DTO.selected">
+		</td>
+	</tr>
+</table>
