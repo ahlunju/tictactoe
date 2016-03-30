@@ -1,0 +1,251 @@
+#page {
+  padding: 0;
+  padding-top: 5px; }
+
+.table-wrap {
+  height: 532px;
+  overflow: auto; }
+
+.row-top-buffer {
+  margin-top: 15px; }
+
+.ui-grid-cell-contents.nested-contents {
+  padding: 0; }
+  .ui-grid-cell-contents.nested-contents .ui-grid-nested-cell-header {
+    padding: 5px;
+    height: 33%; }
+  .ui-grid-cell-contents.nested-contents .ui-grid-nested-cell {
+    padding: 5px 5px 10px 5px;
+    height: 33%; }
+.ui-grid-cell-contents.wrap-content {
+  word-wrap: normal;
+  white-space: normal; }
+
+.clickable-grid .ui-grid-row {
+  cursor: pointer; }
+
+.ui-grid-row-selected .ui-grid-nested-cell-header:nth-child(even) {
+  background-color: #c9dde1 !important; }
+.ui-grid-row-selected .ui-grid-nested-cell:nth-child(even) {
+  background-color: #c9dde1 !important; }
+
+.ui-grid-row-selected:nth-child(even) .ui-grid-nested-cell-header:nth-child(odd) {
+  background-color: #c9dde1 !important; }
+.ui-grid-row-selected:nth-child(even) .ui-grid-nested-cell:nth-child(even) {
+  background-color: #c9dde1 !important; }
+
+@media (min-width: 1280px) {
+  .modal-xl .modal-dialog {
+    width: 1200px; } }
+@media (min-width: 1440px) {
+  .modal-xl .modal-dialog {
+    width: 85%; } }
+@media (min-width: 1600px) {
+  .modal-xl .modal-dialog {
+    width: 85%; } }
+
+.table-overflown td {
+  white-space: normal; }
+
+.breached {
+  color: red; }
+
+a.breached:hover {
+  color: red;
+  text-decoration: underline; }
+
+.revised {
+  color: #880bd0; }
+
+.approaching {
+  color: #ff6dc4; }
+
+.fixed-header-grid .ui-grid-header {
+  height: 60px;
+  max-height: 60px; }
+
+.traded-product-panel,
+.product-panel {
+  height: 120px;
+  overflow: auto; }
+
+@media (min-width: 992px) {
+  .product-panel {
+    margin-bottom: 0; }
+    .product-panel:hover {
+      height: initial;
+      overflow: visible;
+      position: absolute;
+      width: 100%;
+      min-height: 120px;
+      right: 15px;
+      z-index: 10; } }
+.detail-view-info h3 {
+  margin-top: 0;
+  display: inline; }
+.detail-view-info p {
+  margin-bottom: 0; }
+
+.expandableRow .ui-grid-row:nth-child(odd) .ui-grid-cell.primary-col {
+  background-color: #F5F5F5; }
+.expandableRow .ui-grid-row:nth-child(odd) .ui-grid-cell.total-col {
+  background-color: #F5F5F5; }
+.expandableRow .ui-grid-row:nth-child(even) .ui-grid-cell.primary-col {
+  background-color: #E2E2E2; }
+.expandableRow .ui-grid-row:nth-child(even) .ui-grid-cell.total-col {
+  background-color: #E2E2E2; }
+
+.ui-grid-row:nth-child(odd) .ui-grid-cell.primary-col {
+  background-color: #F5F5F5; }
+.ui-grid-row:nth-child(odd) .ui-grid-cell.total-col {
+  background-color: #F5F5F5; }
+.ui-grid-row:nth-child(even) .ui-grid-cell.primary-col {
+  background-color: #E2E2E2; }
+.ui-grid-row:nth-child(even) .ui-grid-cell.total-col {
+  background-color: #E2E2E2; }
+
+.grid-large-header .ui-grid-header-cell .ui-grid-cell-contents {
+  word-wrap: break-word;
+  height: 48px;
+  white-space: normal;
+  -ms-text-overflow: clip;
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  overflow: visible; }
+
+.grid-normal-header .ui-grid-header-cell .ui-grid-cell-contents {
+  height: auto; }
+
+.editable {
+  padding: 1px; }
+  .editable .ui-grid-cell-contents {
+    border: 1px solid #999;
+    border-radius: 3px;
+    background-color: #fff; }
+
+.dark-header,
+.primary-header,
+.total-header {
+  background: #e2e2e2;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #aaa), color-stop(1, #fff));
+  background: -ms-linear-gradient(bottom, #aaa, #fff);
+  background: -moz-linear-gradient(center bottom, #aaa 0%, #fff 100%);
+  background: -o-linear-gradient(#aaa, #fff);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#aaa', endColorstr='#fff', GradientType=0); }
+
+.hidden-filter .ui-grid-filter-container {
+  visibility: hidden; }
+
+.popover-visible {
+  overflow: visible; }
+
+[contenteditable="true"] {
+  padding: 10px;
+  border: none;
+  outline: none; }
+  [contenteditable="true"]:hover:not(:focus) {
+    outline: 1px dashed #aaa; }
+
+.form-control-xs {
+  height: 25px; }
+
+.v-align-top {
+  vertical-align: top; }
+
+/*
+   This is the background of our overlay. We need it to be
+   absolutely positioned within the grid, and fill from
+   top to bottom, and the full width. It will also have
+   a black background with 40% opacity.
+*/
+.grid-overlay-msg {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 2; }
+
+/*
+  This guy will contain our message. We want it centered
+  so it's positioned absolutely with percentage-based
+  offsets and dimensions. It also has some basic border
+  stuff and most important is using "display: table" so
+  we can vertically center its contents.
+*/
+.grid-overlay-msg .msg {
+  opacity: 1;
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  width: 20%;
+  height: 20%;
+  background-color: #eee;
+  border-radius: 4px;
+  border: 1px solid #555;
+  text-align: center;
+  font-size: 18px;
+  display: table; }
+
+.traded-product.grid-overlay-msg {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 15px;
+  bottom: 20px;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.4); }
+.traded-product.grid-overlay-msg .msg {
+  opacity: 1;
+  position: absolute;
+  top: 35%;
+  left: 35%;
+  width: 30%;
+  height: 30%;
+  background-color: #eee;
+  border-radius: 4px;
+  border: 1px solid #555;
+  text-align: center;
+  font-size: 16px;
+  display: table; }
+
+/*
+  Lastly this is the actual message text. It uses
+  display: table-cell so the vertical alignment
+  works properly.
+*/
+.grid-overlay-msg .msg span {
+  display: table-cell;
+  vertical-align: middle; }
+
+.fixed-header-height {
+  height: 76px; }
+
+.has-comment a.glyphicon {
+  color: #ef921b; }
+
+.has-comment {
+  color: #ef921b; }
+
+.expandable-hidden i {
+  display: none; }
+
+.volcker-nav.nav > li > a {
+  padding: 10px; }
+
+td.no-review {
+  background-color: #FCF8E3; }
+
+.table-hover > tbody > tr:hover > td.no-review {
+  background-color: #F5F0D4; }
+
+.clickable-cell {
+  display: block;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  text-decoration: none; }
+  .clickable-cell:hover {
+    text-decoration: none; }
+
+/*# sourceMappingURL=volcker.css.map */
