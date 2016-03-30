@@ -1,0 +1,116 @@
+<div ng-include=" 'common/templates/multiDayHeaderWithoutBreach.html' " class="clearfix"></div>
+<tabset justified="true">
+  <tab heading="Security Assets" disable="isSearching" ng-click="activeGrid('securityAssets')" active="activeGrid.securityAssets">
+  	<div class="grid grid-large-header" ui-grid="securityAssetsGridOptions"
+  		style="height: 61vh; width:100%; margin-top:10px"
+  		ui-grid-selection
+  		ui-grid-move-columns
+  		ui-grid-resize-columns
+  		ui-grid-pinning
+  		ui-grid-save-state
+  		ng-if="activeGrid.securityAssets">
+  		<div class="grid-overlay-msg" ng-show="isSearching">
+  			<span us-spinner spinner-key="report-multiday-spinner" spinner-start-active="false"></span>
+  		</div>
+  		<span us-spinner spinner-key="report-multiday-spinner" spinner-start-active="false"></span>
+  		<div class="grid-overlay-msg" ng-show="noReportData">
+  			<div class="msg">
+  				<span>No Data</span>
+  			</div>
+  		</div>
+  		<div class="grid-overlay-msg" ng-show="error">
+  			<div class="msg">
+  				<span>{{error}}</span>
+  			</div>
+  		</div>
+  	</div>
+  </tab>
+  <tab heading="Security Liabilities" disable="isSearching" ng-click="activeGrid('securityLiabilities')" active="activeGrid.securityLiabilities">
+  	<div class="grid grid-large-header" ui-grid="securityLiabilitiesGridOptions"
+  		style="height: 61vh; width:100%; margin-top:10px"
+  		ui-grid-selection
+  		ui-grid-move-columns
+  		ui-grid-resize-columns
+  		ui-grid-pinning
+  		ui-grid-save-state
+  		ng-if="activeGrid.securityLiabilities">
+  		<div class="grid-overlay-msg" ng-show="isSearching">
+  			<span us-spinner spinner-key="report-multiday-spinner" spinner-start-active="false"></span>
+  		</div>
+  		<span us-spinner spinner-key="report-multiday-spinner" spinner-start-active="false"></span>
+  		<div class="grid-overlay-msg" ng-show="noReportData">
+  			<div class="msg">
+  				<span>No Data</span>
+  			</div>
+  		</div>
+  		<div class="grid-overlay-msg" ng-show="error">
+  			<div class="msg">
+  				<span>{{error}}</span>
+  			</div>
+  		</div>
+  	</div>
+  </tab>
+  <tab heading="Derivative Assets" disable="isSearching" ng-click="activeGrid('derivativeAssets')" active="activeGrid.derivativeAssets">
+  	<div class="grid grid-large-header" ui-grid="derivativeAssetsGridOptions"
+  		style="height: 61vh; width:100%; margin-top:10px"
+  		ui-grid-selection
+  		ui-grid-move-columns
+  		ui-grid-resize-columns
+  		ui-grid-pinning
+  		ui-grid-save-state
+  		ng-if="activeGrid.derivativeAssets">
+  		<div class="grid-overlay-msg" ng-show="isSearching">
+  			<span us-spinner spinner-key="report-multiday-spinner" spinner-start-active="false"></span>
+  		</div>
+  		<span us-spinner spinner-key="report-multiday-spinner" spinner-start-active="false"></span>
+  		<div class="grid-overlay-msg" ng-show="noReportData">
+  			<div class="msg">
+  				<span>No Data</span>
+  			</div>
+  		</div>
+  		<div class="grid-overlay-msg" ng-show="error">
+  			<div class="msg">
+  				<span>{{error}}</span>
+  			</div>
+  		</div>
+  	</div>
+  </tab>
+  <tab heading="Derivative Liabilities" disable="isSearching" ng-click="activeGrid('derivativeLiabilities')" active="activeGrid.derivativeLiabilities">
+  	<div class="grid grid-large-header" ui-grid="derivativesLiabilitiesGridOptions"
+  		style="height: 61vh; width:100%; margin-top:10px"
+  		ui-grid-selection
+  		ui-grid-move-columns
+  		ui-grid-resize-columns
+  		ui-grid-pinning
+  		ui-grid-save-state
+  		ng-if="activeGrid.derivativeLiabilities">
+  		<div class="grid-overlay-msg" ng-show="isSearching">
+  			<span us-spinner spinner-key="report-multiday-spinner" spinner-start-active="false"></span>
+  		</div>
+  		<span us-spinner spinner-key="report-multiday-spinner" spinner-start-active="false"></span>
+  		<div class="grid-overlay-msg" ng-show="noReportData">
+  			<div class="msg">
+  				<span>No Data</span>
+  			</div>
+  		</div>
+  		<div class="grid-overlay-msg" ng-show="error">
+  			<div class="msg">
+  				<span>{{error}}</span>
+  			</div>
+  		</div>
+  	</div>
+  </tab>
+</tabset>
+<div class="row-top-buffer">
+  <button type="button" class="btn btn-primary btn-spacing" ng-click="reviewReport()" ng-disabled="disableReview()" ng-show="access.write">Review</button>
+  <div class="btn-group" dropdown>
+    &nbsp;&nbsp;<button type="button" class="btn btn-primary" ng-click="exportToExcel()" ng-disabled="disableExport()">Export</button>
+    <button type="button" class="btn btn-primary dropdown-toggle" dropdown-toggle ng-disabled="disableExport()">
+    <span class="caret"></span>
+    <span class="sr-only"></span>
+    </button>
+    <ul class="dropdown-menu" role="menu" style="top: -125%;">
+      <li><a ng-click="ageProfileCognosReport()" ng-disabled="disableExport()">Cognos Export</a></li>
+    </ul>
+  </div>
+</div>

@@ -1,0 +1,37 @@
+<div id="audit-history" class="row-top-buffer">
+	<div ng-if="isHistoryShown">
+		<div class="panel panel-default table-responsive">
+			<div class="panel-heading">Audit History</div>
+			<div class="panel-body">
+				<p ng-if="auditHistory.length === 0">No History</p>
+				<p ng-if="historyError">{{historyError}}</p>
+				<table class="table table-striped table-bordered table-overflown" ng-if="auditHistory.length > 0">
+					<thead>
+						<tr>
+							<th>Action</th>
+							<th>Age Profile</th>
+							<th>Security ID</th>
+							<th>Original Value</th>
+							<th>Override Value</th>
+							<th>Comment</th>
+							<th>User</th>
+							<th>Timestamp</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr ng-repeat="history in auditHistory">
+							<td>{{history.sAction}}</td>
+							<td>{{history.sAgeProfile}}</td>
+							<td>{{history.sCusip}}</td>
+							<td>{{history.dOrigValue}}</td>
+							<td>{{history.dOverrideValue}}</td>
+							<td>{{history.sComment}}</td>
+							<td>{{history.sUser}}</td>
+							<td>{{history.sTimestamp}}</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+</div>
