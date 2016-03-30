@@ -1,0 +1,68 @@
+<div style="margin: 0;">
+	<h3 style="margin-top:0; display: inline">Detail View</h3>
+	<span>&nbsp;&nbsp;Volcker Desk:</span><label class="text-info">&nbsp;{{deskName}}&nbsp;&nbsp;</label>
+	<span>&nbsp;&nbsp;Date:</span><label class="text-info">&nbsp;{{date}}&nbsp;&nbsp;</label>
+	<span>&nbsp;&nbsp;Review Status:</span><label class="text-info">&nbsp;{{desk.sDescription}}&nbsp;&nbsp;</label>
+	<span>&nbsp;&nbsp;Reviewer:</span><label class="text-info">&nbsp;{{desk.sReviewerLogin}}&nbsp;&nbsp;</label>
+	<!-- <div class="pull-right clearfix">
+		<label class="">View:&nbsp; <a ng-click="loadState()" class="text-primary pull-right">{{selectedTemplate.name}}</a></label>
+		<span>&nbsp;</span><button class="btn btn-default btn-xs pull-right" ng-click="saveState()">Modify/Create</button>
+	</div> -->
+</div>
+<div class="grid grid-large-header" style="height: 71vh; width: 100%" ui-grid="detailGridOptions"
+	ui-grid-move-columns
+	ui-grid-resize-columns
+	ui-grid-pinning
+	ui-grid-save-state
+	ui-grid-edit>
+	<div class="grid-overlay-msg" ng-show="isSearching">
+		<span us-spinner spinner-key="detail-spinner" spinner-start-active="false"></span>
+	</div>
+	<div class="grid-overlay-msg" ng-show="noReportData">
+		<div class="msg">
+			<span>No Data</span>
+		</div>
+	</div>
+	<div class="grid-overlay-msg" ng-show="error">
+		<div class="msg">
+			<span>{{error}}</span>
+		</div>
+	</div>
+</div>
+<div class="row-top-buffer">
+	<button type="button" class="btn btn-primary" ng-disabled="disableReview()" ng-click="reviewReport()" ng-show="access.write">Review</button>
+	<button type="button" class="btn btn-primary" ng-disabled="detailGridOptions.data.length === 0" ng-click="exportToExcel()">Export</button>
+	<button type="button" class="btn btn-default" ng-click="goBack()">Back</button>
+	<button type="button" class="btn btn-default" ng-disabled="detailGridOptions.data.length === 0" ng-click="showAuditHistory()">Audit History</button>
+	<button type="button" class="btn btn-default glyphicon glyphicon-file" ng-click="showDocument()" ng-disabled="detailGridOptions.data.length === 0"></button>
+	<button type="button" class="btn btn-default glyphicon glyphicon-pencil" ng-click="showComment()" ng-disabled="detailGridOptions.data.length === 0"></button>
+</div>
+<div ng-include=" 'customer-facing-trade-ratio/auditHistory.html' " class="clearfix"></div>
+
+<script type="text/ng-template" id="customerFacingTradeRatioPositionLimitUsage.html">
+	<div class="modal-header">
+		<h4 class="modal-title">Desk: <b>{{selectedDesk}}</b>, Book: <b>{{selectedBook}}</b></h4>
+	</div>
+	<div class="modal-body" style="height: 700px">
+		<div class="grid grid-large-header" style="height: 100%; width: 100%" ui-grid="positionsGridOptions"
+			ui-grid-resize-columns
+			ui-grid-pinning
+			>
+			<span us-spinner spinner-key="position-spinner" spinner-start-active="true"></span>
+			<div class="grid-overlay-msg" ng-show="noPositionData">
+				<div class="msg">
+					<span>No Data</span>
+				</div>
+			</div>
+			<div class="grid-overlay-msg" ng-show="error">
+				<div class="msg">
+					<span>{{error}}</span>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="modal-footer">
+		<button type="button" class="btn btn-primary" ng-disabled="positionsGridOptions.data.length === 0" ng-click="exportPosition()">Export</button>
+		<button class="btn btn-default" ng-click="cancel()">Close</button>
+	</div>
+</script>
