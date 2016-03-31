@@ -1,0 +1,34 @@
+[
+	{
+		"sVolckerDeskName": "Agencies/CP",
+		"VolckerDeskID": 8
+	},
+	{
+		"sVolckerDeskName": "Agency",
+		"VolckerDeskID": 1
+	},
+	{
+		"sVolckerDeskName": "Coporate",
+		"VolckerDeskID": 2
+	},
+	{
+		"sVolckerDeskName": "Repo",
+		"VolckerDeskID": 3
+	},
+	{
+		"sVolckerDeskName": "Treasuries",
+		"VolckerDeskID": 4
+	},
+	{
+		"sVolckerDeskName": "Equities",
+		"VolckerDeskID": 5
+	},
+	{
+		"sVolckerDeskName": "Convertibles",
+		"VolckerDeskID": 6
+	},
+	{
+		"sVolckerDeskName": "Yalun's Desk",
+		"VolckerDeskID": 7
+	}
+]

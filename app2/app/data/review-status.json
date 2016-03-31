@@ -1,0 +1,2738 @@
+[
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": "USI\\yalunzhu",
+      "ReviewerInitials": "YZ"
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/5/2016",
+    "sVolckerDesk": "Agencies/CP"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/5/2016",
+    "sVolckerDesk": "CLO"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/5/2016",
+    "sVolckerDesk": "Convertible Bonds"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/5/2016",
+    "sVolckerDesk": "Corporate Bonds"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/5/2016",
+    "sVolckerDesk": "Corporate Treasury"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/5/2016",
+    "sVolckerDesk": "Debt Capital Markets"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/5/2016",
+    "sVolckerDesk": "Emerging Markets"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/5/2016",
+    "sVolckerDesk": "Equity Capital Markets"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/5/2016",
+    "sVolckerDesk": "Equity Finance / Securities Lending"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/5/2016",
+    "sVolckerDesk": "IBPG"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/5/2016",
+    "sVolckerDesk": "Interest Rate Derivatives"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/5/2016",
+    "sVolckerDesk": "Japan BD"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/5/2016",
+    "sVolckerDesk": "Municipals"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/5/2016",
+    "sVolckerDesk": "Repo"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/5/2016",
+    "sVolckerDesk": "Securitized Products - Agency"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/5/2016",
+    "sVolckerDesk": "Securitized Products - Non Agency"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/5/2016",
+    "sVolckerDesk": "Treasuries"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/5/2016",
+    "sVolckerDesk": "U.S. Equity Trading"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/5/2016",
+    "sVolckerDesk": "Unspecified"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/6/2016",
+    "sVolckerDesk": "Agencies/CP"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/6/2016",
+    "sVolckerDesk": "CLO"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/6/2016",
+    "sVolckerDesk": "Convertible Bonds"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/6/2016",
+    "sVolckerDesk": "Corporate Bonds"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/6/2016",
+    "sVolckerDesk": "Corporate Treasury"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/6/2016",
+    "sVolckerDesk": "Debt Capital Markets"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/6/2016",
+    "sVolckerDesk": "Emerging Markets"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/6/2016",
+    "sVolckerDesk": "Equity Capital Markets"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/6/2016",
+    "sVolckerDesk": "Equity Finance / Securities Lending"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/6/2016",
+    "sVolckerDesk": "IBPG"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/6/2016",
+    "sVolckerDesk": "Interest Rate Derivatives"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/6/2016",
+    "sVolckerDesk": "Japan BD"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/6/2016",
+    "sVolckerDesk": "Municipals"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/6/2016",
+    "sVolckerDesk": "Repo"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/6/2016",
+    "sVolckerDesk": "Securitized Products - Agency"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/6/2016",
+    "sVolckerDesk": "Securitized Products - Non Agency"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/6/2016",
+    "sVolckerDesk": "Treasuries"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/6/2016",
+    "sVolckerDesk": "U.S. Equity Trading"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/6/2016",
+    "sVolckerDesk": "Unspecified"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/7/2016",
+    "sVolckerDesk": "Agencies/CP"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/7/2016",
+    "sVolckerDesk": "CLO"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/7/2016",
+    "sVolckerDesk": "Convertible Bonds"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/7/2016",
+    "sVolckerDesk": "Corporate Bonds"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/7/2016",
+    "sVolckerDesk": "Corporate Treasury"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/7/2016",
+    "sVolckerDesk": "Debt Capital Markets"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/7/2016",
+    "sVolckerDesk": "Emerging Markets"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/7/2016",
+    "sVolckerDesk": "Equity Capital Markets"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/7/2016",
+    "sVolckerDesk": "Equity Finance / Securities Lending"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/7/2016",
+    "sVolckerDesk": "IBPG"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/7/2016",
+    "sVolckerDesk": "Interest Rate Derivatives"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/7/2016",
+    "sVolckerDesk": "Japan BD"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/7/2016",
+    "sVolckerDesk": "Municipals"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/7/2016",
+    "sVolckerDesk": "Repo"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/7/2016",
+    "sVolckerDesk": "Securitized Products - Agency"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/7/2016",
+    "sVolckerDesk": "Securitized Products - Non Agency"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/7/2016",
+    "sVolckerDesk": "Treasuries"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/7/2016",
+    "sVolckerDesk": "U.S. Equity Trading"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/7/2016",
+    "sVolckerDesk": "Unspecified"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/8/2016",
+    "sVolckerDesk": "Agencies/CP"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/8/2016",
+    "sVolckerDesk": "CLO"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/8/2016",
+    "sVolckerDesk": "Convertible Bonds"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/8/2016",
+    "sVolckerDesk": "Corporate Bonds"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/8/2016",
+    "sVolckerDesk": "Corporate Treasury"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/8/2016",
+    "sVolckerDesk": "Debt Capital Markets"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/8/2016",
+    "sVolckerDesk": "Emerging Markets"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/8/2016",
+    "sVolckerDesk": "Equity Capital Markets"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/8/2016",
+    "sVolckerDesk": "Equity Finance / Securities Lending"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/8/2016",
+    "sVolckerDesk": "IBPG"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/8/2016",
+    "sVolckerDesk": "Interest Rate Derivatives"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/8/2016",
+    "sVolckerDesk": "Japan BD"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/8/2016",
+    "sVolckerDesk": "Municipals"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/8/2016",
+    "sVolckerDesk": "Repo"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/8/2016",
+    "sVolckerDesk": "Securitized Products - Agency"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/8/2016",
+    "sVolckerDesk": "Securitized Products - Non Agency"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/8/2016",
+    "sVolckerDesk": "Treasuries"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/8/2016",
+    "sVolckerDesk": "U.S. Equity Trading"
+  },
+  {
+    "oReviewerPanel1DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel2DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel3DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4aDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel4bDTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel5DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel6DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "oReviewerPanel7DTO": {
+      "Reviewer": null,
+      "ReviewerInitials": null
+    },
+    "dtReview": "1/8/2016",
+    "sVolckerDesk": "Unspecified"
+  }
+]
