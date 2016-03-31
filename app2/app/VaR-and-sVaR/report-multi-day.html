@@ -1,0 +1,24 @@
+<div ng-include=" 'common/templates/multiDayHeader.html' " class="clearfix"></div>
+<div class="grid" ui-grid="gridOptions"
+	style="height: 66vh"
+	ui-grid-selection
+	ui-grid-move-columns
+	ui-grid-resize-columns
+	ui-grid-pinning
+	ui-grid-save-state
+	>
+	<div class="grid-overlay-msg" ng-show="isSearching">
+		<span us-spinner spinner-key="report-multiday-spinner" spinner-start-active="false"></span>
+	</div>
+	<div class="grid-overlay-msg" ng-show="noReportData">
+		<div class="msg">
+			<span>No Data</span>
+		</div>
+	</div>
+	<div class="grid-overlay-msg" ng-show="error">
+		<div class="msg">
+			<span>{{error}}</span>
+		</div>
+	</div>
+</div>
+<div ng-include=" 'common/templates/multiDayFooter.html' " class="clearfix"></div>
