@@ -1,0 +1,56 @@
+<div class="row product-wrapper">
+	<div class="col-md-2">
+		<!-- <label>Reporting Day</label> -->
+		<p class="input-group">
+			<input type="text" class="form-control"
+				max-date="today"
+				datepicker-popup="{{dateFormat}}"
+				required
+				ng-model="dateOptions.datePicked"
+				is-open="dateOptions.opened"
+				datepicker-options="dateOptions"
+				datepicker-append-to-body="true"
+				date-disabled="disabledDate(date, mode)"
+				close-text="Close"
+				ng-change="formatSelectedDate()"
+				ng-readonly="true"/>
+			<span class="input-group-btn">
+				<button type="button" class="btn btn-default" ng-click="openCalendar($event)" ng-disabled="isSearching"><i
+					class="glyphicon glyphicon-calendar"></i></button>
+			</span>
+		</p>
+	</div>
+	<div class="col-md-3">
+		<div class="form-group btn-group v-align-top">
+			<button class="btn btn-primary" ng-click="searchReports()" ng-disabled="isSearching">Search</button>
+		</div>
+		<div class="btn-group form-group v-align-top">
+			<div class="checkbox"><label><input type="checkbox" ng-model="breachOnly.val" ng-disabled="isSearching"/>Breach Only</label></div>
+		</div>
+	</div>
+	<div class="col-md-7">
+		<div ng-include=" 'common/templates/tradedProducts.html' " class="clearfix"></div>
+	</div>
+</div>
+
+<div class="grid fixed-header-grid" ui-grid="gridOptions"
+	style="height: 60vh"
+	ui-grid-selection
+	ui-grid-expandable
+	ui-grid-pinning
+	>
+	<div class="grid-overlay-msg" ng-show="isSearching">
+		<span us-spinner spinner-key="report-day-spinner" spinner-start-active="false"></span>
+	</div>
+	<div class="grid-overlay-msg" ng-show="noReportData">
+		<div class="msg">
+			<span>No Data</span>
+		</div>
+	</div>
+	<div class="grid-overlay-msg" ng-show="error">
+		<div class="msg">
+			<span>{{error}}</span>
+		</div>
+	</div>
+</div>
+<div ng-include=" 'common/templates/dayFooter.html' " class="clearfix"></div>
