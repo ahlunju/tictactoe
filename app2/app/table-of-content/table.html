@@ -1,0 +1,16 @@
+<table class="table table-bordered table-overflown table-hover">
+	<thead>
+	<tr>
+		<th style="width:15%">Category</th>
+		<th style="width:20%">Name</th>
+		<th style="width:57%">Description</th>
+		<th style="width:8%">Owner</th>
+	</tr>
+	</thead>
+	<tr ng-repeat="content in tableContent">
+		<td>{{::content.category}}</td>
+		<td>{{::content.name}}</td>
+		<td>{{::content.description}}</td>
+		<td>{{::content.owner}}</td>
+	</tr>
+</table>
