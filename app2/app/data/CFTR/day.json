@@ -1,0 +1,1604 @@
+[
+  {
+    "LimitUsageDTOData": null,
+    "RFSItemDTOData": null,
+    "oVARItemDTO": null,
+    "oPLItemDTO": null,
+    "PLByRFSDTOData": null,
+    "oInventoryTurnoverItemDTO": null,
+    "InventoryAgingDTOData": null,
+    "oCFTRItemDTO": {
+      "oDetailsDTOData": null,
+      "oAmounts30DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 1803.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden":true
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts60DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 3240.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts90DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 3512.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 1384715897.63,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "sCalendarDate": "2016-02-03",
+      "sDivision": "Fixed Income",
+      "sVolckerDesk": "Agencies/CP",
+      "sTradebook": "na",
+      "sCusip": "na",
+      "sSecurityDescription": null,
+      "sProductHierarchy1": "na",
+      "sProductHierarchy2": "na",
+      "sProductHierarchy3": "na"
+    },
+    "bIsReviewClicked": false,
+    "ReviewID": 25608,
+    "sPanel": "7",
+    "VolckerDeskID": 1,
+    "sVolckerDeskName": "Agencies/CP",
+    "dtReview": "2/3/2016",
+    "ReviewStatusID": 2,
+    "sReviewerLogin": "",
+    "dtTimeStamp": "2/4/2016",
+    "sDescription": "Pending",
+    "sComment": "",
+    "ReviewStatus": "",
+    "BreachStatus": ""
+  },
+  {
+    "LimitUsageDTOData": null,
+    "RFSItemDTOData": null,
+    "oVARItemDTO": null,
+    "oPLItemDTO": null,
+    "PLByRFSDTOData": null,
+    "oInventoryTurnoverItemDTO": null,
+    "InventoryAgingDTOData": null,
+    "oCFTRItemDTO": {
+      "oDetailsDTOData": null,
+      "oAmounts30DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 30.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts60DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 33.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts90DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 49.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 6275937.51,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "sCalendarDate": "2016-02-03",
+      "sDivision": "Fixed Income",
+      "sVolckerDesk": "CLO",
+      "sTradebook": "na",
+      "sCusip": "na",
+      "sSecurityDescription": null,
+      "sProductHierarchy1": "na",
+      "sProductHierarchy2": "na",
+      "sProductHierarchy3": "na"
+    },
+    "bIsReviewClicked": false,
+    "ReviewID": 25628,
+    "sPanel": "7",
+    "VolckerDeskID": 73,
+    "sVolckerDeskName": "CLO",
+    "dtReview": "2/3/2016",
+    "ReviewStatusID": 2,
+    "sReviewerLogin": "",
+    "dtTimeStamp": "2/4/2016",
+    "sDescription": "Pending",
+    "sComment": "",
+    "ReviewStatus": "",
+    "BreachStatus": ""
+  },
+  {
+    "LimitUsageDTOData": null,
+    "RFSItemDTOData": null,
+    "oVARItemDTO": null,
+    "oPLItemDTO": null,
+    "PLByRFSDTOData": null,
+    "oInventoryTurnoverItemDTO": null,
+    "InventoryAgingDTOData": null,
+    "oCFTRItemDTO": {
+      "oDetailsDTOData": null,
+      "oAmounts30DTO": null,
+      "oAmounts60DTO": null,
+      "oAmounts90DTO": null,
+      "sCalendarDate": null,
+      "sDivision": null,
+      "sVolckerDesk": null,
+      "sTradebook": null,
+      "sCusip": null,
+      "sSecurityDescription": null,
+      "sProductHierarchy1": null,
+      "sProductHierarchy2": null,
+      "sProductHierarchy3": null
+    },
+    "bIsReviewClicked": false,
+    "ReviewID": 25614,
+    "sPanel": "7",
+    "VolckerDeskID": 87,
+    "sVolckerDeskName": "CLO (Underwriting)",
+    "dtReview": "2/3/2016",
+    "ReviewStatusID": 2,
+    "sReviewerLogin": "",
+    "dtTimeStamp": "2/4/2016",
+    "sDescription": "Pending",
+    "sComment": "",
+    "ReviewStatus": "",
+    "BreachStatus": ""
+  },
+  {
+    "LimitUsageDTOData": null,
+    "RFSItemDTOData": null,
+    "oVARItemDTO": null,
+    "oPLItemDTO": null,
+    "PLByRFSDTOData": null,
+    "oInventoryTurnoverItemDTO": null,
+    "InventoryAgingDTOData": null,
+    "oCFTRItemDTO": {
+      "oDetailsDTOData": null,
+      "oAmounts30DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 114.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 43778169826.34,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts60DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 144.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 44448943088.59,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts90DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 145.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 44449925588.59,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "sCalendarDate": "2016-02-03",
+      "sDivision": "Equity",
+      "sVolckerDesk": "Convertible Bonds",
+      "sTradebook": "na",
+      "sCusip": "na",
+      "sSecurityDescription": null,
+      "sProductHierarchy1": "na",
+      "sProductHierarchy2": "na",
+      "sProductHierarchy3": "na"
+    },
+    "bIsReviewClicked": false,
+    "ReviewID": 25622,
+    "sPanel": "7",
+    "VolckerDeskID": 8,
+    "sVolckerDeskName": "Convertible Bonds",
+    "dtReview": "2/3/2016",
+    "ReviewStatusID": 2,
+    "sReviewerLogin": "",
+    "dtTimeStamp": "2/4/2016",
+    "sDescription": "Pending",
+    "sComment": "",
+    "ReviewStatus": "",
+    "BreachStatus": ""
+  },
+  {
+    "LimitUsageDTOData": null,
+    "RFSItemDTOData": null,
+    "oVARItemDTO": null,
+    "oPLItemDTO": null,
+    "PLByRFSDTOData": null,
+    "oInventoryTurnoverItemDTO": null,
+    "InventoryAgingDTOData": null,
+    "oCFTRItemDTO": {
+      "oDetailsDTOData": null,
+      "oAmounts30DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 3389.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 482553208.86999989,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts60DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 5195.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 491879308.86999989,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts90DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 6665.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 2340378831.56,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "sCalendarDate": "2016-02-03",
+      "sDivision": "Fixed Income",
+      "sVolckerDesk": "Corporate Bonds",
+      "sTradebook": "na",
+      "sCusip": "na",
+      "sSecurityDescription": null,
+      "sProductHierarchy1": "na",
+      "sProductHierarchy2": "na",
+      "sProductHierarchy3": "na"
+    },
+    "bIsReviewClicked": false,
+    "ReviewID": 25609,
+    "sPanel": "7",
+    "VolckerDeskID": 2,
+    "sVolckerDeskName": "Corporate Bonds",
+    "dtReview": "2/3/2016",
+    "ReviewStatusID": 2,
+    "sReviewerLogin": "",
+    "dtTimeStamp": "2/4/2016",
+    "sDescription": "Pending",
+    "sComment": "",
+    "ReviewStatus": "",
+    "BreachStatus": ""
+  },
+  {
+    "LimitUsageDTOData": null,
+    "RFSItemDTOData": null,
+    "oVARItemDTO": null,
+    "oPLItemDTO": null,
+    "PLByRFSDTOData": null,
+    "oInventoryTurnoverItemDTO": null,
+    "InventoryAgingDTOData": null,
+    "oCFTRItemDTO": {
+      "oDetailsDTOData": null,
+      "oAmounts30DTO": null,
+      "oAmounts60DTO": null,
+      "oAmounts90DTO": null,
+      "sCalendarDate": null,
+      "sDivision": null,
+      "sVolckerDesk": null,
+      "sTradebook": null,
+      "sCusip": null,
+      "sSecurityDescription": null,
+      "sProductHierarchy1": null,
+      "sProductHierarchy2": null,
+      "sProductHierarchy3": null
+    },
+    "bIsReviewClicked": false,
+    "ReviewID": 25625,
+    "sPanel": "7",
+    "VolckerDeskID": 82,
+    "sVolckerDeskName": "Corporate Treasury",
+    "dtReview": "2/3/2016",
+    "ReviewStatusID": 2,
+    "sReviewerLogin": "",
+    "dtTimeStamp": "2/4/2016",
+    "sDescription": "Pending",
+    "sComment": "",
+    "ReviewStatus": "",
+    "BreachStatus": ""
+  },
+  {
+    "LimitUsageDTOData": null,
+    "RFSItemDTOData": null,
+    "oVARItemDTO": null,
+    "oPLItemDTO": null,
+    "PLByRFSDTOData": null,
+    "oInventoryTurnoverItemDTO": null,
+    "InventoryAgingDTOData": null,
+    "oCFTRItemDTO": {
+      "oDetailsDTOData": null,
+      "oAmounts30DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 49.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 90090000.0,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts60DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 49.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 90090000.0,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts90DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 72.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 90932749.03,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "sCalendarDate": "2016-02-03",
+      "sDivision": "Fixed Income",
+      "sVolckerDesk": "Debt Capital Markets",
+      "sTradebook": "na",
+      "sCusip": "na",
+      "sSecurityDescription": null,
+      "sProductHierarchy1": "na",
+      "sProductHierarchy2": "na",
+      "sProductHierarchy3": "na"
+    },
+    "bIsReviewClicked": false,
+    "ReviewID": 25616,
+    "sPanel": "7",
+    "VolckerDeskID": 74,
+    "sVolckerDeskName": "Debt Capital Markets",
+    "dtReview": "2/3/2016",
+    "ReviewStatusID": 2,
+    "sReviewerLogin": "",
+    "dtTimeStamp": "2/4/2016",
+    "sDescription": "Pending",
+    "sComment": "",
+    "ReviewStatus": "",
+    "BreachStatus": ""
+  },
+  {
+    "LimitUsageDTOData": null,
+    "RFSItemDTOData": null,
+    "oVARItemDTO": null,
+    "oPLItemDTO": null,
+    "PLByRFSDTOData": null,
+    "oInventoryTurnoverItemDTO": null,
+    "InventoryAgingDTOData": null,
+    "oCFTRItemDTO": {
+      "oDetailsDTOData": null,
+      "oAmounts30DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 1383.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 1034550.0,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts60DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 2410.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 1034550.0,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts90DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 2853.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 53714555.010000005,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "sCalendarDate": "2016-02-03",
+      "sDivision": "Fixed Income",
+      "sVolckerDesk": "Emerging Markets",
+      "sTradebook": "na",
+      "sCusip": "na",
+      "sSecurityDescription": null,
+      "sProductHierarchy1": "na",
+      "sProductHierarchy2": "na",
+      "sProductHierarchy3": "na"
+    },
+    "bIsReviewClicked": false,
+    "ReviewID": 25617,
+    "sPanel": "7",
+    "VolckerDeskID": 5,
+    "sVolckerDeskName": "Emerging Markets",
+    "dtReview": "2/3/2016",
+    "ReviewStatusID": 2,
+    "sReviewerLogin": "",
+    "dtTimeStamp": "2/4/2016",
+    "sDescription": "Pending",
+    "sComment": "",
+    "ReviewStatus": "",
+    "BreachStatus": ""
+  },
+  {
+    "LimitUsageDTOData": null,
+    "RFSItemDTOData": null,
+    "oVARItemDTO": null,
+    "oPLItemDTO": null,
+    "PLByRFSDTOData": null,
+    "oInventoryTurnoverItemDTO": null,
+    "InventoryAgingDTOData": null,
+    "oCFTRItemDTO": {
+      "oDetailsDTOData": null,
+      "oAmounts30DTO": null,
+      "oAmounts60DTO": null,
+      "oAmounts90DTO": null,
+      "sCalendarDate": null,
+      "sDivision": null,
+      "sVolckerDesk": null,
+      "sTradebook": null,
+      "sCusip": null,
+      "sSecurityDescription": null,
+      "sProductHierarchy1": null,
+      "sProductHierarchy2": null,
+      "sProductHierarchy3": null
+    },
+    "bIsReviewClicked": false,
+    "ReviewID": 25627,
+    "sPanel": "7",
+    "VolckerDeskID": 81,
+    "sVolckerDeskName": "Equity Capital Markets",
+    "dtReview": "2/3/2016",
+    "ReviewStatusID": 2,
+    "sReviewerLogin": "",
+    "dtTimeStamp": "2/4/2016",
+    "sDescription": "Pending",
+    "sComment": "",
+    "ReviewStatus": "",
+    "BreachStatus": ""
+  },
+  {
+    "LimitUsageDTOData": null,
+    "RFSItemDTOData": null,
+    "oVARItemDTO": null,
+    "oPLItemDTO": null,
+    "PLByRFSDTOData": null,
+    "oInventoryTurnoverItemDTO": null,
+    "InventoryAgingDTOData": null,
+    "oCFTRItemDTO": {
+      "oDetailsDTOData": null,
+      "oAmounts30DTO": null,
+      "oAmounts60DTO": null,
+      "oAmounts90DTO": null,
+      "sCalendarDate": null,
+      "sDivision": null,
+      "sVolckerDesk": null,
+      "sTradebook": null,
+      "sCusip": null,
+      "sSecurityDescription": null,
+      "sProductHierarchy1": null,
+      "sProductHierarchy2": null,
+      "sProductHierarchy3": null
+    },
+    "bIsReviewClicked": false,
+    "ReviewID": 25615,
+    "sPanel": "7",
+    "VolckerDeskID": 83,
+    "sVolckerDeskName": "Equity Finance / Securities Lending",
+    "dtReview": "2/3/2016",
+    "ReviewStatusID": 2,
+    "sReviewerLogin": "",
+    "dtTimeStamp": "2/4/2016",
+    "sDescription": "Pending",
+    "sComment": "",
+    "ReviewStatus": "",
+    "BreachStatus": ""
+  },
+  {
+    "LimitUsageDTOData": null,
+    "RFSItemDTOData": null,
+    "oVARItemDTO": null,
+    "oPLItemDTO": null,
+    "PLByRFSDTOData": null,
+    "oInventoryTurnoverItemDTO": null,
+    "InventoryAgingDTOData": null,
+    "oCFTRItemDTO": {
+      "oDetailsDTOData": null,
+      "oAmounts30DTO": null,
+      "oAmounts60DTO": null,
+      "oAmounts90DTO": null,
+      "sCalendarDate": null,
+      "sDivision": null,
+      "sVolckerDesk": null,
+      "sTradebook": null,
+      "sCusip": null,
+      "sSecurityDescription": null,
+      "sProductHierarchy1": null,
+      "sProductHierarchy2": null,
+      "sProductHierarchy3": null
+    },
+    "bIsReviewClicked": false,
+    "ReviewID": 25626,
+    "sPanel": "7",
+    "VolckerDeskID": 88,
+    "sVolckerDeskName": "IBPG",
+    "dtReview": "2/3/2016",
+    "ReviewStatusID": 2,
+    "sReviewerLogin": "",
+    "dtTimeStamp": "2/4/2016",
+    "sDescription": "Pending",
+    "sComment": "",
+    "ReviewStatus": "",
+    "BreachStatus": ""
+  },
+  {
+    "LimitUsageDTOData": null,
+    "RFSItemDTOData": null,
+    "oVARItemDTO": null,
+    "oPLItemDTO": null,
+    "PLByRFSDTOData": null,
+    "oInventoryTurnoverItemDTO": null,
+    "InventoryAgingDTOData": null,
+    "oCFTRItemDTO": {
+      "oDetailsDTOData": null,
+      "oAmounts30DTO": null,
+      "oAmounts60DTO": null,
+      "oAmounts90DTO": null,
+      "sCalendarDate": null,
+      "sDivision": null,
+      "sVolckerDesk": null,
+      "sTradebook": null,
+      "sCusip": null,
+      "sSecurityDescription": null,
+      "sProductHierarchy1": null,
+      "sProductHierarchy2": null,
+      "sProductHierarchy3": null
+    },
+    "bIsReviewClicked": false,
+    "ReviewID": 25623,
+    "sPanel": "7",
+    "VolckerDeskID": 71,
+    "sVolckerDeskName": "Interest Rate Derivatives",
+    "dtReview": "2/3/2016",
+    "ReviewStatusID": 2,
+    "sReviewerLogin": "",
+    "dtTimeStamp": "2/4/2016",
+    "sDescription": "Pending",
+    "sComment": "",
+    "ReviewStatus": "",
+    "BreachStatus": ""
+  },
+  {
+    "LimitUsageDTOData": null,
+    "RFSItemDTOData": null,
+    "oVARItemDTO": null,
+    "oPLItemDTO": null,
+    "PLByRFSDTOData": null,
+    "oInventoryTurnoverItemDTO": null,
+    "InventoryAgingDTOData": null,
+    "oCFTRItemDTO": {
+      "oDetailsDTOData": null,
+      "oAmounts30DTO": null,
+      "oAmounts60DTO": null,
+      "oAmounts90DTO": null,
+      "sCalendarDate": null,
+      "sDivision": null,
+      "sVolckerDesk": null,
+      "sTradebook": null,
+      "sCusip": null,
+      "sSecurityDescription": null,
+      "sProductHierarchy1": null,
+      "sProductHierarchy2": null,
+      "sProductHierarchy3": null
+    },
+    "bIsReviewClicked": false,
+    "ReviewID": 25620,
+    "sPanel": "7",
+    "VolckerDeskID": 89,
+    "sVolckerDeskName": "International Sales Trading",
+    "dtReview": "2/3/2016",
+    "ReviewStatusID": 2,
+    "sReviewerLogin": "",
+    "dtTimeStamp": "2/4/2016",
+    "sDescription": "Pending",
+    "sComment": "",
+    "ReviewStatus": "",
+    "BreachStatus": ""
+  },
+  {
+    "LimitUsageDTOData": null,
+    "RFSItemDTOData": null,
+    "oVARItemDTO": null,
+    "oPLItemDTO": null,
+    "PLByRFSDTOData": null,
+    "oInventoryTurnoverItemDTO": null,
+    "InventoryAgingDTOData": null,
+    "oCFTRItemDTO": {
+      "oDetailsDTOData": null,
+      "oAmounts30DTO": null,
+      "oAmounts60DTO": null,
+      "oAmounts90DTO": null,
+      "sCalendarDate": null,
+      "sDivision": null,
+      "sVolckerDesk": null,
+      "sTradebook": null,
+      "sCusip": null,
+      "sSecurityDescription": null,
+      "sProductHierarchy1": null,
+      "sProductHierarchy2": null,
+      "sProductHierarchy3": null
+    },
+    "bIsReviewClicked": false,
+    "ReviewID": 25612,
+    "sPanel": "7",
+    "VolckerDeskID": 84,
+    "sVolckerDeskName": "Japan BD",
+    "dtReview": "2/3/2016",
+    "ReviewStatusID": 2,
+    "sReviewerLogin": "",
+    "dtTimeStamp": "2/4/2016",
+    "sDescription": "Pending",
+    "sComment": "",
+    "ReviewStatus": "",
+    "BreachStatus": ""
+  },
+  {
+    "LimitUsageDTOData": null,
+    "RFSItemDTOData": null,
+    "oVARItemDTO": null,
+    "oPLItemDTO": null,
+    "PLByRFSDTOData": null,
+    "oInventoryTurnoverItemDTO": null,
+    "InventoryAgingDTOData": null,
+    "oCFTRItemDTO": {
+      "oDetailsDTOData": null,
+      "oAmounts30DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 2.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts60DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 17.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts90DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 17.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "sCalendarDate": "2016-02-03",
+      "sDivision": "Fixed Income",
+      "sVolckerDesk": "Municipals",
+      "sTradebook": "na",
+      "sCusip": "na",
+      "sSecurityDescription": null,
+      "sProductHierarchy1": "na",
+      "sProductHierarchy2": "na",
+      "sProductHierarchy3": "na"
+    },
+    "bIsReviewClicked": false,
+    "ReviewID": 25624,
+    "sPanel": "7",
+    "VolckerDeskID": 77,
+    "sVolckerDeskName": "Municipals",
+    "dtReview": "2/3/2016",
+    "ReviewStatusID": 2,
+    "sReviewerLogin": "",
+    "dtTimeStamp": "2/4/2016",
+    "sDescription": "Pending",
+    "sComment": "",
+    "ReviewStatus": "",
+    "BreachStatus": ""
+  },
+  {
+    "LimitUsageDTOData": null,
+    "RFSItemDTOData": null,
+    "oVARItemDTO": null,
+    "oPLItemDTO": null,
+    "PLByRFSDTOData": null,
+    "oInventoryTurnoverItemDTO": null,
+    "InventoryAgingDTOData": null,
+    "oCFTRItemDTO": {
+      "oDetailsDTOData": null,
+      "oAmounts30DTO": null,
+      "oAmounts60DTO": null,
+      "oAmounts90DTO": null,
+      "sCalendarDate": null,
+      "sDivision": null,
+      "sVolckerDesk": null,
+      "sTradebook": null,
+      "sCusip": null,
+      "sSecurityDescription": null,
+      "sProductHierarchy1": null,
+      "sProductHierarchy2": null,
+      "sProductHierarchy3": null
+    },
+    "bIsReviewClicked": false,
+    "ReviewID": 25618,
+    "sPanel": "7",
+    "VolckerDeskID": 3,
+    "sVolckerDeskName": "Repo",
+    "dtReview": "2/3/2016",
+    "ReviewStatusID": 2,
+    "sReviewerLogin": "",
+    "dtTimeStamp": "2/4/2016",
+    "sDescription": "Pending",
+    "sComment": "",
+    "ReviewStatus": "",
+    "BreachStatus": ""
+  },
+  {
+    "LimitUsageDTOData": null,
+    "RFSItemDTOData": null,
+    "oVARItemDTO": null,
+    "oPLItemDTO": null,
+    "PLByRFSDTOData": null,
+    "oInventoryTurnoverItemDTO": null,
+    "InventoryAgingDTOData": null,
+    "oCFTRItemDTO": {
+      "oDetailsDTOData": null,
+      "oAmounts30DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 337.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 52285696.089999996,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts60DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 467.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 188825864.41,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts90DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 704.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 805163831.74000013,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "sCalendarDate": "2016-02-03",
+      "sDivision": "Fixed Income",
+      "sVolckerDesk": "Securitized Products - Agency",
+      "sTradebook": "na",
+      "sCusip": "na",
+      "sSecurityDescription": null,
+      "sProductHierarchy1": "na",
+      "sProductHierarchy2": "na",
+      "sProductHierarchy3": "na"
+    },
+    "bIsReviewClicked": false,
+    "ReviewID": 25613,
+    "sPanel": "7",
+    "VolckerDeskID": 75,
+    "sVolckerDeskName": "Securitized Products - Agency",
+    "dtReview": "2/3/2016",
+    "ReviewStatusID": 2,
+    "sReviewerLogin": "",
+    "dtTimeStamp": "2/4/2016",
+    "sDescription": "Pending",
+    "sComment": "",
+    "ReviewStatus": "",
+    "BreachStatus": ""
+  },
+  {
+    "LimitUsageDTOData": null,
+    "RFSItemDTOData": null,
+    "oVARItemDTO": null,
+    "oPLItemDTO": null,
+    "PLByRFSDTOData": null,
+    "oInventoryTurnoverItemDTO": null,
+    "InventoryAgingDTOData": null,
+    "oCFTRItemDTO": {
+      "oDetailsDTOData": null,
+      "oAmounts30DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 186.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 26546173.72,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts60DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 240.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 26546173.72,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts90DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 282.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 44996486.48,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "sCalendarDate": "2016-02-03",
+      "sDivision": "Fixed Income",
+      "sVolckerDesk": "Securitized Products - Non Agency",
+      "sTradebook": "na",
+      "sCusip": "na",
+      "sSecurityDescription": null,
+      "sProductHierarchy1": "na",
+      "sProductHierarchy2": "na",
+      "sProductHierarchy3": "na"
+    },
+    "bIsReviewClicked": false,
+    "ReviewID": 25619,
+    "sPanel": "7",
+    "VolckerDeskID": 76,
+    "sVolckerDeskName": "Securitized Products - Non Agency",
+    "dtReview": "2/3/2016",
+    "ReviewStatusID": 2,
+    "sReviewerLogin": "",
+    "dtTimeStamp": "2/4/2016",
+    "sDescription": "Pending",
+    "sComment": "",
+    "ReviewStatus": "",
+    "BreachStatus": ""
+  },
+  {
+    "LimitUsageDTOData": null,
+    "RFSItemDTOData": null,
+    "oVARItemDTO": null,
+    "oPLItemDTO": null,
+    "PLByRFSDTOData": null,
+    "oInventoryTurnoverItemDTO": null,
+    "InventoryAgingDTOData": null,
+    "oCFTRItemDTO": {
+      "oDetailsDTOData": null,
+      "oAmounts30DTO": null,
+      "oAmounts60DTO": null,
+      "oAmounts90DTO": null,
+      "sCalendarDate": null,
+      "sDivision": null,
+      "sVolckerDesk": null,
+      "sTradebook": null,
+      "sCusip": null,
+      "sSecurityDescription": null,
+      "sProductHierarchy1": null,
+      "sProductHierarchy2": null,
+      "sProductHierarchy3": null
+    },
+    "bIsReviewClicked": false,
+    "ReviewID": 25611,
+    "sPanel": "7",
+    "VolckerDeskID": 90,
+    "sVolckerDeskName": "test desk",
+    "dtReview": "2/3/2016",
+    "ReviewStatusID": 2,
+    "sReviewerLogin": "",
+    "dtTimeStamp": "2/4/2016",
+    "sDescription": "Pending",
+    "sComment": "",
+    "ReviewStatus": "",
+    "BreachStatus": ""
+  },
+  {
+    "LimitUsageDTOData": null,
+    "RFSItemDTOData": null,
+    "oVARItemDTO": null,
+    "oPLItemDTO": null,
+    "PLByRFSDTOData": null,
+    "oInventoryTurnoverItemDTO": null,
+    "InventoryAgingDTOData": null,
+    "oCFTRItemDTO": {
+      "oDetailsDTOData": null,
+      "oAmounts30DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 7198.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 8485786652.3899994,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts60DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 12097.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 11700339211.449997,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts90DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 15095.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 30822120930.180008,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "sCalendarDate": "2016-02-03",
+      "sDivision": "Fixed Income",
+      "sVolckerDesk": "Treasuries",
+      "sTradebook": "na",
+      "sCusip": "na",
+      "sSecurityDescription": null,
+      "sProductHierarchy1": "na",
+      "sProductHierarchy2": "na",
+      "sProductHierarchy3": "na"
+    },
+    "bIsReviewClicked": false,
+    "ReviewID": 25621,
+    "sPanel": "7",
+    "VolckerDeskID": 6,
+    "sVolckerDeskName": "Treasuries",
+    "dtReview": "2/3/2016",
+    "ReviewStatusID": 2,
+    "sReviewerLogin": "",
+    "dtTimeStamp": "2/4/2016",
+    "sDescription": "Pending",
+    "sComment": "",
+    "ReviewStatus": "",
+    "BreachStatus": ""
+  },
+  {
+    "LimitUsageDTOData": null,
+    "RFSItemDTOData": null,
+    "oVARItemDTO": null,
+    "oPLItemDTO": null,
+    "PLByRFSDTOData": null,
+    "oInventoryTurnoverItemDTO": null,
+    "InventoryAgingDTOData": null,
+    "oCFTRItemDTO": {
+      "oDetailsDTOData": null,
+      "oAmounts30DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 2097.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 1290276858.9699998,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts60DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 3320.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 1555678206.51,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts90DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 3712.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 1628518887.9399998,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "sCalendarDate": "2016-02-03",
+      "sDivision": "Equity",
+      "sVolckerDesk": "U.S. Equity Trading",
+      "sTradebook": "na",
+      "sCusip": "na",
+      "sSecurityDescription": null,
+      "sProductHierarchy1": "na",
+      "sProductHierarchy2": "na",
+      "sProductHierarchy3": "na"
+    },
+    "bIsReviewClicked": false,
+    "ReviewID": 25610,
+    "sPanel": "7",
+    "VolckerDeskID": 9,
+    "sVolckerDeskName": "U.S. Equity Trading",
+    "dtReview": "2/3/2016",
+    "ReviewStatusID": 2,
+    "sReviewerLogin": "",
+    "dtTimeStamp": "2/4/2016",
+    "sDescription": "Pending",
+    "sComment": "",
+    "ReviewStatus": "",
+    "BreachStatus": ""
+  }
+]

@@ -1,0 +1,385 @@
+[
+  {
+    "LimitUsageDTOData": null,
+    "RFSItemDTOData": null,
+    "oVARItemDTO": null,
+    "oPLItemDTO": null,
+    "PLByRFSDTOData": null,
+    "oInventoryTurnoverItemDTO": null,
+    "InventoryAgingDTOData": null,
+    "oCFTRItemDTO": {
+      "oDetailsDTOData": [
+        {
+          "oDetailsDTOData": [{"a": 1}, {"a": 2}],
+          "oAmounts30DTO": {
+            "oNumCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oNumNonCustomerTransactionsDTO": {
+              "dAmount": 17.0,
+              "bIsOverridden": false
+            },
+            "oNumTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValNonCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            }
+          },
+          "oAmounts60DTO": {
+            "oNumCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oNumNonCustomerTransactionsDTO": {
+              "dAmount": 53.0,
+              "bIsOverridden": false
+            },
+            "oNumTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValNonCustomerTransactionsDTO": {
+              "dAmount": 1299739000.0,
+              "bIsOverridden": false
+            },
+            "oValTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            }
+          },
+          "oAmounts90DTO": {
+            "oNumCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oNumNonCustomerTransactionsDTO": {
+              "dAmount": 53.0,
+              "bIsOverridden": false
+            },
+            "oNumTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValNonCustomerTransactionsDTO": {
+              "dAmount": 1299739000.0,
+              "bIsOverridden": false
+            },
+            "oValTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            }
+          },
+          "sCalendarDate": "2016-01-04",
+          "sDivision": "Fixed Income",
+          "sVolckerDesk": "Agencies/CP",
+          "sTradebook": "D067",
+          "sCusip": "na",
+          "sSecurityDescription": null,
+          "sProductHierarchy1": "na",
+          "sProductHierarchy2": "na",
+          "sProductHierarchy3": "na"
+        },
+        {
+          "oDetailsDTOData": null,
+          "oAmounts30DTO": {
+            "oNumCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oNumNonCustomerTransactionsDTO": {
+              "dAmount": 1360.0,
+              "bIsOverridden": false
+            },
+            "oNumTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValNonCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            }
+          },
+          "oAmounts60DTO": {
+            "oNumCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oNumNonCustomerTransactionsDTO": {
+              "dAmount": 1588.0,
+              "bIsOverridden": false
+            },
+            "oNumTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValNonCustomerTransactionsDTO": {
+              "dAmount": 84976897.63,
+              "bIsOverridden": false
+            },
+            "oValTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            }
+          },
+          "oAmounts90DTO": {
+            "oNumCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oNumNonCustomerTransactionsDTO": {
+              "dAmount": 1588.0,
+              "bIsOverridden": false
+            },
+            "oNumTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValNonCustomerTransactionsDTO": {
+              "dAmount": 84976897.63,
+              "bIsOverridden": false
+            },
+            "oValTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            }
+          },
+          "sCalendarDate": "2016-01-04",
+          "sDivision": "Fixed Income",
+          "sVolckerDesk": "Agencies/CP",
+          "sTradebook": "N002",
+          "sCusip": "na",
+          "sSecurityDescription": null,
+          "sProductHierarchy1": "na",
+          "sProductHierarchy2": "na",
+          "sProductHierarchy3": "na"
+        },
+        {
+          "oDetailsDTOData": null,
+          "oAmounts30DTO": {
+            "oNumCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oNumNonCustomerTransactionsDTO": {
+              "dAmount": 60.0,
+              "bIsOverridden": false
+            },
+            "oNumTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValNonCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            }
+          },
+          "oAmounts60DTO": {
+            "oNumCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oNumNonCustomerTransactionsDTO": {
+              "dAmount": 68.0,
+              "bIsOverridden": false
+            },
+            "oNumTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValNonCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            }
+          },
+          "oAmounts90DTO": {
+            "oNumCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oNumNonCustomerTransactionsDTO": {
+              "dAmount": 68.0,
+              "bIsOverridden": false
+            },
+            "oNumTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValNonCustomerTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            },
+            "oValTransactionsDTO": {
+              "dAmount": 0.0,
+              "bIsOverridden": false
+            }
+          },
+          "sCalendarDate": "2016-01-04",
+          "sDivision": "Fixed Income",
+          "sVolckerDesk": "Agencies/CP",
+          "sTradebook": "S012",
+          "sCusip": "na",
+          "sSecurityDescription": null,
+          "sProductHierarchy1": "na",
+          "sProductHierarchy2": "na",
+          "sProductHierarchy3": "na"
+        }
+      ],
+      "oAmounts30DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 1437.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts60DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 1709.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 1384715897.63,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "oAmounts90DTO": {
+        "oNumCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oNumNonCustomerTransactionsDTO": {
+          "dAmount": 1709.0,
+          "bIsOverridden": false
+        },
+        "oNumTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValCustomerTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        },
+        "oValNonCustomerTransactionsDTO": {
+          "dAmount": 1384715897.63,
+          "bIsOverridden": false
+        },
+        "oValTransactionsDTO": {
+          "dAmount": 0.0,
+          "bIsOverridden": false
+        }
+      },
+      "sCalendarDate": "2016-01-04",
+      "sDivision": "Fixed Income",
+      "sVolckerDesk": "Agencies/CP",
+      "sTradebook": "na",
+      "sCusip": "na",
+      "sSecurityDescription": null,
+      "sProductHierarchy1": "na",
+      "sProductHierarchy2": "na",
+      "sProductHierarchy3": "na"
+    },
+    "bIsReviewClicked": false,
+    "ReviewID": 24649,
+    "sPanel": "7",
+    "VolckerDeskID": 1,
+    "sVolckerDeskName": "Agencies/CP",
+    "dtReview": "1/4/2016",
+    "ReviewStatusID": 2,
+    "sReviewerLogin": "",
+    "dtTimeStamp": "2/1/2016",
+    "sDescription": "Pending",
+    "sComment": "",
+    "ReviewStatus": "",
+    "BreachStatus": ""
+  }
+]
