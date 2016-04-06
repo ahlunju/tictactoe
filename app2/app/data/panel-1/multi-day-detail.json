@@ -1,0 +1,210 @@
+[
+  {
+    "limit": "Gross MV",
+    "sUnit": "$",
+    "primaryLimitMinSize": -100000,
+    "primaryLimitMaxSize": 1000000,
+    "primaryUsage": 22688,
+    "primaryLU": "110%",
+    "hedgeLimitMinSize": -23000,
+    "hedgeLimitMaxSize": 235000,
+    "hedgeUsage": 87366252,
+    "hedgeLU": "80%",
+    "totalLimitMinSize": -44000,
+    "totalLimitMaxSize": 230000,
+    "totalUsage": 123,
+    "totalLU": null,
+    "primaryBreach": "breached",
+    "hedgeBreach": "breached",
+    "totalBreach": "approaching"
+  },
+  {
+    "limit": "IR DV01 Total",
+    "sUnit": "$",
+    "primaryLimitMinSize": -100000,
+    "primaryLimitMaxSize": 1000000,
+    "primaryUsage": null,
+    "primaryLU": 45665666,
+    "hedgeLimitMinSize": -23000,
+    "hedgeLimitMaxSize": 235000,
+    "hedgeUsage": 87366252,
+    "hedgeLU": 12345,
+    "totalLimitMinSize": -44000,
+    "totalLimitMaxSize": 230000,
+    "totalUsage": 12346,
+    "totalLU": 79789,
+    "primaryBreach": "breached",
+    "hedgeBreach": "revised",
+    "totalBreach": null
+  },
+  {
+    "limit": "s VaR",
+    "sUnit": "$",
+    "primaryUsage": null,
+    "primaryLU": 7338,
+    "hedgeUsage": 1926252,
+    "hedgeLU": 6787,
+    "totalUsage": null,
+    "totalLU": 7884
+  },
+  {
+    "limit": "Spread_DV01",
+    "sUnit": "$",
+    "primaryUsage": null,
+    "primaryLU": 7338,
+    "hedgeUsage": 1926252,
+    "hedgeLU": null,
+    "totalUsage": null,
+    "totalLU": 7884
+  },
+  {
+    "limit": "Stop Loss",
+    "sUnit": "$",
+    "primaryUsage": null,
+    "primaryLU": 7338,
+    "hedgeUsage": 1926252,
+    "hedgeLU": null,
+    "totalUsage": null,
+    "totalLU": 7884
+  },
+  {
+    "limit": "Spread P&L",
+    "sUnit": "$",
+    "primaryUsage": null,
+    "primaryLU": 7338,
+    "hedgeUsage": 1926252,
+    "hedgeLU": null,
+    "totalUsage": null,
+    "totalLU": 7884
+  },
+  {
+    "limit": "Vega",
+    "sUnit": "$",
+    "primaryUsage": null,
+    "primaryLU": 7338,
+    "hedgeUsage": 1926252,
+    "hedgeLU": null,
+    "totalUsage": null,
+    "totalLU": 7884
+  },
+  {
+    "limit": "VaR",
+    "sUnit": "$",
+    "primaryUsage": null,
+    "primaryLU": 7338,
+    "hedgeUsage": 1926252,
+    "hedgeLU": null,
+    "totalUsage": null,
+    "totalLU": 7884
+  },
+  {
+    "limit": "Issuer Specific Limits",
+    "sUnit": "$",
+    "primaryUsage": null,
+    "primaryLU": 7338,
+    "hedgeUsage": 1926252,
+    "hedgeLU": null,
+    "totalUsage": null,
+    "totalLU": 7884
+  },
+  {
+    "limit": "Combined Stress Test",
+    "sUnit": "$",
+    "primaryUsage": null,
+    "primaryLU": 7338,
+    "hedgeUsage": 1926252,
+    "hedgeLU": null,
+    "totalUsage": null,
+    "totalLU": 7884
+  },
+  {
+    "limit": "Combined Stress Test",
+    "sUnit": "$",
+    "primaryUsage": null,
+    "primaryLU": 7338,
+    "hedgeUsage": 1926252,
+    "hedgeLU": null,
+    "totalUsage": null,
+    "totalLU": 7884
+  },
+  {
+    "limit": "Combined Stress Test",
+    "sUnit": "$",
+    "primaryUsage": null,
+    "primaryLU": 7338,
+    "hedgeUsage": 1926252,
+    "hedgeLU": null,
+    "totalUsage": null,
+    "totalLU": 7884
+  },
+  {
+    "limit": "Combined Stress Test",
+    "sUnit": "$",
+    "primaryUsage": null,
+    "primaryLU": 7338,
+    "hedgeUsage": 1926252,
+    "hedgeLU": null,
+    "totalUsage": null,
+    "totalLU": 7884
+  },
+  {
+    "limit": "Combined Stress Test",
+    "sUnit": "$",
+    "primaryUsage": null,
+    "primaryLU": 7338,
+    "hedgeUsage": 1926252,
+    "hedgeLU": null,
+    "totalUsage": null,
+    "totalLU": 7884
+  },
+  {
+    "limit": "Combined Stress Test",
+    "sUnit": "$",
+    "primaryUsage": null,
+    "primaryLU": 7338,
+    "hedgeUsage": 1926252,
+    "hedgeLU": null,
+    "totalUsage": null,
+    "totalLU": 7884
+  },
+  {
+    "limit": "Combined Stress Test",
+    "sUnit": "$",
+    "primaryUsage": null,
+    "primaryLU": 7338,
+    "hedgeUsage": 1926252,
+    "hedgeLU": null,
+    "totalUsage": null,
+    "totalLU": 7884
+  },
+  {
+    "limit": "Combined Stress Test",
+    "sUnit": "$",
+    "primaryUsage": null,
+    "primaryLU": 7338,
+    "hedgeUsage": 1926252,
+    "hedgeLU": null,
+    "totalUsage": null,
+    "totalLU": 7884
+  },
+  {
+    "limit": "Combined Stress Test",
+    "sUnit": "$",
+    "primaryUsage": null,
+    "primaryLU": 7338,
+    "hedgeUsage": 1926252,
+    "hedgeLU": null,
+    "totalUsage": null,
+    "totalLU": 7884
+  },
+  {
+    "limit": "Combined Stress Test",
+    "sUnit": "$",
+    "primaryUsage": null,
+    "primaryLU": 7338,
+    "hedgeUsage": 1926252,
+    "hedgeLU": null,
+    "totalUsage": null,
+    "totalLU": 7884
+  }
+]

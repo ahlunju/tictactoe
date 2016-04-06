@@ -1,0 +1,38 @@
+{
+  "PrimaryDTO": [
+    {
+      "sProductType": "Agency Note/Bond"
+    },
+    {
+      "sProductType": "Sovereign-Other"
+    },
+    {
+      "sProductType": "Agency Discount Note"
+    }
+  ],
+  "HedgeDTO": [
+    {
+      "sProductType": ""
+    },
+    {
+      "sProductType": "Treasury Note/Bond"
+    },
+    {
+      "sProductType": "Treasury Futures"
+    },
+    {
+      "sProductType": "IR Swap"
+    },
+    {
+      "sProductType": "Eurodollar Futures"
+    },
+    {
+      "sProductType": "Eurodollar Futures Option"
+    }
+  ],
+  "UnauthorizedDTO": [
+  	{
+  		"sProductType": "Trasury Note/Bond"
+  	}
+  ]
+}
